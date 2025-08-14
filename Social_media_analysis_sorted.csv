@@ -1,0 +1,850 @@
+UsageDuration,Userid,Text,Sentiment,Timestamp,User,App,Hashtags,time_spent,Likes,Country,Year,Month,Day,Hour,Age,gender
+5,327," Fearful eyes scanning the shadows, a prisoner of the night, terrorized by the lurking monsters born from the mind's darkest corners. ",Negative,1/7/2023 3:30,User322, Twitter ,#Tag322 #Fun,1,36, India ,2023,1,7,3,38,male
+40,686,Accidentally walked into the wrong classroom on the first day. Classroom mix-up: Awkward start! ,Neutral,9/9/2023 17:30,User681, Twitter ,#Tag681 #Fun,1,32, USA,2023,9,9,17,27,male
+5,154, Contentment in the embrace of a loved one.           ,Positive,11/12/2010 20:20,User151, Twitter  ,#Tag151 #Fun,1,60, India    ,2010,11,12,20,54,female
+54,688,Reflecting on the challenges of the school year. Feeling a bit overwhelmed with assignments. ,Neutral,9/11/2023 15:45,User683, Twitter ,#Tag683 #Fun,1,28, USA,2018,9,11,15,33,male
+2,155, Serenity found in the beauty of a sunset by the sea.  ,Negative,7/22/2011 18:30,User152, Instagram ,#Tag152 #Fun,1,45, Canada     ,2011,7,22,18,40,non-binary
+2,280," Playfully juggling responsibilities, a circus performer balancing the acts of work and joy, tossing laughter into the air. ",Neutral,11/18/2019 15:15,User275, Instagram ,#Tag275 #Fun,1,50, USA ,2019,11,18,15,20,male
+36,691,Feeling down after not making the sports team. Disappointment lingers. ,Negative,9/14/2023 18:20,User686, Twitter ,#Tag686 #Fun,1,34, USA,2020,9,14,18,29,male
+9,238," Determination as the driving force, propelling me forward on the path to extraordinary achievements. ",Negative,12/3/2019 13:45,User233, Facebook ,#Tag233 #Fun,1,40, USA          ,2019,12,3,13,23,male
+31,694,Dealing with a personal setback. Sometimes life throws unexpected challenges. ,Negative,9/17/2023 20:45,User689, Twitter ,#Tag689 #Fun,1,44, USA,2016,9,17,20,25,male
+6,573,"In the realm of literature, a captivating novel transports the reader to distant lands, weaving a tapestry of imagination and escape. ",Positive,10/8/2021 20:30,User568, Facebook ,#Tag568 #Fun,1,70, Japan ,2021,10,8,20,29,female
+4,388,Rejuvenated by the salty breeze and the sound of waves at the seaside. ,Positive,9/20/2021 14:30,User383, Twitter  ,#Tag383 #Fun,1,35, Spain           ,2021,9,20,14,24,male
+26,695,Feeling lonely on a Saturday night. Sometimes solitude hits harder than expected. ,Neutral,9/18/2023 22:00,User690, Instagram ,#Tag690 #Fun,1,31, Canada,2018,9,18,22,45,male
+23,72, A bitter experience turned into a valuable lesson.      ,Positive,2/17/2023 15:00,User69, Facebook ,#Tag69 #Fun,1,35, USA       ,2023,2,17,15,61,female
+38,71, Anticipating a thrilling adventure in the coming weeks. ,Positive,2/17/2023 7:30,User68, Instagram ,#Tag68 #Fun,1,40,USA,2023,2,17,7,43,non-binary
+3,285," Embraced by the hopeful dawn, a gardener sowing seeds of optimism, tending to the blooms of a brighter tomorrow. ",Negative,7/17/2022 6:15,User280, Instagram ,#Tag280 #Fun,1,28, UK ,2022,7,17,6,28,male
+25,707,Having a string of bad luck with constant technology malfunctions. Tech troubles galore! ,Neutral,9/30/2023 18:20,User702, Instagram ,#Tag702 #Fun,1,43, Canada,2020,9,30,18,50,male
+9,64, Admiring the beauty of nature during a peaceful hike.   ,Negative,2/15/2023 11:30,User61, Twitter  ,#Tag61 #Fun,1,40, USA       ,2023,2,15,11,21,non-binary
+51,710,Organizing a community cleanup event for a cleaner neighborhood. Promoting environmental awareness. ,Negative,10/3/2023 12:30,User705, Twitter ,#Tag705 #Fun,1,50, Canada,2019,10,3,12,45,non-binary
+4,631,"Enrolled in a dance class for seniors, moving to the rhythm of life. Age is just a number on the dance floor. #DanceClass #SeniorDancer ",Positive,7/5/2023 20:15,User626, Twitter ,#Tag626 #Fun,1,35, UK,2021,7,5,20,21,female
+1,559,"The gymnast's unexpected fall during a routine sparks a wave of sympathy from the audience, highlighting the vulnerability of sports. ",Neutral,4/5/2021 20:15,User554, Instagram ,#Tag554 #Fun,1,55, Japan ,2021,4,5,20,42,female
+6,719,Attending a workshop on time management to enhance organizational skills. Striving for efficiency. ,Positive,10/12/2023 18:20,User714, Twitter ,#Tag714 #Fun,1,44, Canada,2018,10,12,18,42,non-binary
+2,386,Radiant joy akin to blooming flowers on a sun-kissed spring morning. ,Positive,5/5/2022 10:15,User381, Facebook ,#Tag381 #Fun,1,50, Netherlands     ,2022,5,5,10,41,non-binary
+4,53, Sunday bike ride through scenic trails.           ,Negative,2/1/2023 13:30,User51, Instagram ,#Tag51 #Fun,1,35, USA     ,2023,2,1,13,64,male
+1,153, The euphoria of a successful product launch.         ,Positive,4/3/2022 11:45,User150, Facebook ,#Tag150 #Fun,1,30, USA       ,2022,4,3,11,47,male
+5,579,"Surrounded by the vibrant colors of a flower garden, the gardener nurtures blossoms, finding joy in the beauty of nature's ever-changing canvas. ",Negative,5/15/2020 18:30,User574, Instagram ,#Tag574 #Fun,1,55, Australia ,2020,5,15,18,36,female
+9,616,"Joined a community choir, harmonizing with fellow voices. Music creates bonds that withstand time. #CommunityChoir #HarmonyInAging ",Positive,6/20/2023 14:20,User611, Instagram ,#Tag611 #Fun,1,40, USA,2016,6,20,14,44,female
+4,115," Meditating by the serene lake, finding inner peace.   ",Neutral,2/12/2022 18:20,User112, Twitter  ,#Tag112 #Fun,1,35, UK          ,2022,2,12,18,45,non-binary
+3,114," Embracing the beauty of nature, a moment of contentment. ",Negative,6/20/2011 14:45,User111, Facebook ,#Tag111 #Fun,1,50, India       ,2011,6,20,14,58,female
+9,427,"Tears fall like raindrops, mourning the end of a cherished friendship. ",Neutral,11/28/2020 14:20,User422, Facebook ,#Tag422 #Fun,1,45, UK              ,2020,11,28,14,57,male
+1,613,Capturing the beauty of nature through photography. Every snapshot is a treasure. #NaturePhotography #SeniorPhotographer ,Neutral,6/17/2023 15:00,User608, Instagram ,#Tag608 #Fun,1,70, USA,2021,6,17,15,57,female
+47,110, Pride in accomplishing personal and professional goals.  ,Neutral,3/3/2023 14:30,User107, Instagram ,#Tag107 #Fun,1,25, Canada ,2023,3,3,14,50,male
+8,248," Determination ablaze, forging a path through challenges, sculpting dreams into tangible realities. ",Neutral,10/10/2021 14:45,User243, Twitter  ,#Tag243 #Fun,1,40, UK            ,2021,10,10,14,37,female
+18,107, Confusion surrounds me as I navigate through life's choices. ,Negative,3/2/2023 13:15,User104, Instagram ,#Tag104 #Fun,1,60, USA   ,2023,3,2,13,25,male
+4,432,"Haunted by regrets, the ghost of the past lingers relentlessly.   ",Positive,12/15/2018 10:00,User427, Twitter  ,#Tag427 #Fun,1,35, France         ,2018,12,15,10,36,female
+1,275," With empathy as a lantern, wandering through the dark alleys of sorrow, illuminating the path with compassion and care. ",Neutral,9/3/2023 21:40,User270, Facebook ,#Tag270 #Fun,1,32, USA ,2023,9,3,21,26,non-binary
+6,493,"A symphony of laughter, each note a key to unlocking the door of boundless happiness. ",Negative,8/2/2021 19:00,User488, Facebook ,#Tag488 #Fun,1,60, Brazil ,2021,8,2,19,33,non-binary
+2,265," Unveiling the layers of curiosity, a labyrinth of questions leading to the treasure troves of undiscovered knowledge. ",Negative,11/29/2020 14:45,User260, Instagram ,#Tag260 #Fun,1,34, USA ,2020,11,29,14,52,male
+56,102, A moment of shame for not speaking up against injustice.,Negative,2/28/2023 19:45,User99, Facebook ,#Tag99 #Fun,1,30, India     ,2023,2,28,19,61,female
+13,245," Leafing through the pages of an old photo album, nostalgia weaving tales of laughter and tears. ",Neutral,5/18/2017 14:45,User240, Twitter  ,#Tag240 #Fun,1,25, USA          ,2017,5,18,14,43,non-binary
+1,142, Serenity found in the melody of a peaceful piano.    ,Positive,7/30/2016 18:10,User139, Twitter  ,#Tag139 #Fun,1,35, Canada      ,2016,7,30,18,44,male
+1,602,Attended a concert and danced the night away. Music is the heartbeat of life. #ConcertVibes #DanceAllNight ,Positive,6/6/2023 22:30,User597, Facebook ,#Tag597 #Fun,1,55, Canada,2015,6,6,22,35,male
+18,95, Anticipating the release of a much-awaited movie.       ,Negative,2/26/2023 7:30,User92, Instagram ,#Tag92 #Fun,1,40, Australia    ,2023,2,26,7,62,female
+8,148, Arousal of excitement before a much-awaited trip.    ,Negative,3/10/2018 9:45,User145, Twitter  ,#Tag145 #Fun,1,40, India    ,2018,3,10,9,30,male
+18,676,Creating a secret handshake with friends. Friendship level: Expert! ,Positive,8/30/2023 17:30,User671, Facebook ,#Tag671 #Fun,1,40, USA,2023,8,30,17,58,male
+3,242," Lost in the labyrinth of thoughts, confusion casting shadows on the quest for clarity. ",Neutral,6/5/2020 12:15,User237,Snapchat,#Tag237 #Fun,1,28, Australia    ,2020,6,5,12,37,male
+4,660,Mastering the art of the perfect doodle during boring classes. Doodles: A+! ,Positive,8/14/2023 16:15,User655, Twitter ,#Tag655 #Fun,1,40, USA,2019,8,14,16,61,male
+5,52, Starting a new fitness challenge tomorrow! 💪     ,Negative,2/1/2023 8:00,User50, Facebook ,#Tag50 #Fun,1,45, UK         ,2023,2,1,8,45,non-binary
+5,124, Reverence for the beauty of a historic landmark.       ,Negative,11/11/2019 15:00,User121, Twitter  ,#Tag121 #Fun,1,35, UK      ,2019,11,11,15,54,female
+4,520,"Immersed in the pulsating beats of a Bruno Mars concert, where 'Uptown Funk' becomes a city of joy. ",Positive,3/28/2017 20:30,User515, Facebook ,#Tag515 #Fun,1,55, USA ,2017,3,28,20,63,female
+2,302," Bitterness festering like a venomous vine, entwining the soul in a web of resentment, poisoning the garden of peace. ",Neutral,3/8/2019 14:20,User297, Facebook ,#Tag297 #Fun,1,24, UK ,2019,3,8,14,58,male
+3,763,"Visited an art gallery, appreciating the brushstrokes that tell tales of creativity. Art, an eternal companion. #ArtGallery #SeniorArtLover ",Negative,12/26/2023 1:05,User758,Snapchat,#Tag758 #Fun,1,8, Australia ,2022,69,1,3,8,female
+1,468,"Betrayal, a venomous serpent slithering through the garden of trust, poisoning roots. ",Positive,3/2/2021 17:45,User463, Instagram ,#Tag463 #Fun,1,50, Canada ,2021,3,2,17,63,male
+1,470,"Wandering through the cemetery of lost dreams, tombstones marking untold sorrows. ",Neutral,8/15/2020 12:30,User465, Facebook ,#Tag465 #Fun,1,55, France ,2020,8,15,12,29,male
+1,32, Weekend road trip to explore scenic views.         ,Negative,1/24/2023 17:30,User30, Instagram ,#Tag30 #Fun,1,35, UK        ,2023,1,24,17,59,male
+2,491,"Like a comet of inspiration, streaking through the sky of creativity, leaving trails of brilliance. ",Neutral,5/28/2020 16:00,User486, Twitter ,#Tag486 #Fun,1,35, France ,2020,5,28,16,62,non-binary
+2,508,"In the midst of the Amazon rainforest, a symphony of wildlife creates an orchestra of nature's wonders. ",Positive,6/10/2021 16:00,User503, Instagram ,#Tag503 #Fun,1,60, Brazil ,2021,6,10,16,29,non-binary
+5,515,"At the front row of Adele's concert, each note of 'Someone Like You' resonates with soul-stirring emotion. ",Negative,9/15/2022 20:00,User510, Instagram ,#Tag510 #Fun,1,80, USA ,2022,9,15,20,61,male
+1,342,Overwhelmed by the support received during a personal challenge.,Negative,5/20/2021 17:30,User337, Facebook ,#Tag337 #Fun,1,50, USA               ,2021,5,20,17,63,male
+8,211," Entangled in the web of thoughts, confusion reigning as I navigate the labyrinth of ideas. ",Negative,5/15/2021 11:45,User208, Twitter  ,#Tag208 #Fun,1,30, UK            ,2021,5,15,11,40,female
+9,790,Got my hands on the latest fantasy novel. Diving into realms of magic and adventure! ,Negative,12/26/2023 1:05,User785,Snapchat,#Tag785 #Fun,1,7, India ,2023,9,52,3,6,male
+4,460,"Tears, the currency of grief, spent in the marketplace of lost love and longing. ",Positive,12/22/2016 21:45,User455, Facebook ,#Tag455 #Fun,1,50, USA ,2016,12,22,21,54,male
+5,23, Just finished a challenging workout routine.       ,Negative,1/22/2023 9:15,User23, Twitter  ,#Tag23 #Fun,1,40, UK       ,2023,1,22,9,38,female
+2,351,Gratitude for the simple joys found in a cup of morning coffee.    ,Positive,4/15/2017 8:00,User346, Twitter  ,#Tag346 #Fun,1,45, India             ,2017,4,15,8,52,female
+1,485,"In the embrace of love, each heartbeat is a melody, dancing to the rhythm of affection. ",Positive,11/15/2022 20:45,User480, Twitter ,#Tag480 #Fun,1,70, USA ,2022,11,15,20,48,male
+5,315," Fearful whispers in the dark, the mind haunted by the specter of the unknown, shadows dancing to the rhythm of anxiety's tune. ",Neutral,7/14/2023 23:00,User310, Twitter ,#Tag310 #Fun,1,26, UK ,2023,7,14,23,29,female
+13,815,Experimenting with a new hair color. A bold change for a bold semester! ,Neutral,12/26/2023 1:05,User810,YouTube,#Tag810 #Fun,1,6, USA               ,2018,14,82,62,3,female
+2,487,"In the symphony of excitement, each note is a burst of energy, igniting the soul with fervor. ",Negative,4/18/2021 14:20,User482, Facebook ,#Tag482 #Fun,1,60, UK ,2021,4,18,14,36,female
+6,799,Trying to set a new trend by juggling textbooks between classes. Academic juggling: A unique skill! ,Negative,12/26/2023 1:05,User794,YouTube,#Tag794 #Fun,1,31, Australia ,2022,40,5,5,3,non-binary
+9,364,Confidence soars after overcoming public speaking anxiety.       ,Neutral,4/2/2020 17:30,User359, Instagram ,#Tag359 #Fun,1,30, USA               ,2020,4,2,17,63,male
+3,196," Resentment festers, a wound that refuses to heal.  ",Positive,1/12/2017 12:00,User193, Twitter  ,#Tag193 #Fun,1,20, India         ,2017,1,12,12,41,non-binary
+9,503,"Embarking on a gondola ride in Venice, each canal reflecting the romance of this timeless city. ",Neutral,4/18/2019 16:30,User498, Instagram ,#Tag498 #Fun,1,40, Italy ,2019,4,18,16,52,non-binary
+7,751,"Participated in a community art class, unleashing creativity in the golden years. Art has no age limit. #ArtClass #SeniorArtistry ",Neutral,12/26/2023 1:05,User746,Snapchat,#Tag746 #Fun,1,84, Canada ,2023,82,8,3,61,male
+2,544,"As the closing scene unfolds, a sense of satisfaction washes over, completing the cinematic journey with a profound and fulfilling ending. ",Negative,9/10/2020 19:45,User539, Twitter ,#Tag539 #Fun,1,45, Brazil ,2020,9,10,19,26,male
+9,729,Creating a beautiful mural with fellow art enthusiasts. The power of collaboration and creativity! ,Positive,10/22/2023 20:45,User724, Instagram ,#Tag724 #Fun,1,43, UK,2019,10,22,20,64,non-binary
+27,834,Encountering online toxicity during a gaming session. Hateful comments can ruin the fun. ,Positive,12/26/2023 1:05,User829,YouTube,#Tag829 #Fun,1,68, UK                ,2021,4,63,7,6,female
+1,4, Trying out a new recipe for dinner tonight.        ,Neutral,1/15/2023 19:55,User4, Instagram ,#Tag4 #Fun,1,25, Australia ,2023,1,15,19,25,male
+5,44, Feeling accomplished after a productive day.       ,Positive,1/29/2023 17:00,User42, Instagram ,#Tag42 #Fun,1,45, India ,2023,1,29,17,35,female
+4,203," Gazing at the sunset, a melancholic longing for moments that slip through the fingers of time. ",Neutral,6/18/2019 20:45,User200, Instagram ,#Tag200 #Fun,1,25, Australia     ,2019,6,18,20,56,male
+7,336," Loneliness, a silent companion in the night, the only echo in the chamber of solitude, a heart's solitary nocturne. ",Negative,9/19/2019 3:30,User331, Facebook ,#Tag331 #Fun,1,36, Australia ,2019,9,19,3,52,non-binary
+1,224," Flipping through the pages of an old yearbook, nostalgia painting smiles and tears on my face. ",Positive,6/18/2017 14:45,User221, Instagram ,#Tag221 #Fun,1,25, India         ,2017,6,18,14,28,male
+34,837,Experiencing hate comments for expressing personal opinions. Online negativity prevails. ,Neutral,12/26/2023 1:05,User832,YouTube,#Tag832 #Fun,1,2, Australia          ,2016,7,81,3,8,non-binary
+1,40, Trying out a new dessert recipe.                   ,Neutral,1/27/2023 16:10,User38, Facebook ,#Tag38 #Fun,1,25, Canada ,2023,1,27,16,24,non-binary
+1,502,"Amazed by the architectural marvels of Petra, each stone telling tales of an ancient civilization. ",Positive,1/28/2023 13:00,User497, Twitter ,#Tag497 #Fun,1,60, Jordan ,2023,1,28,13,29,female
+5,536,"As the credits roll, a profound sense of nostalgia washes over, reminiscent of cherished moments in classic films. ",Positive,6/25/2019 22:15,User531, Instagram ,#Tag531 #Fun,1,70, UK ,2019,6,25,22,28,non-binary
+2,137, Reverence for the artistry displayed in a museum.      ,Negative,11/11/2020 15:00,User134, Instagram ,#Tag134 #Fun,2,35, UK        ,2020,11,11,15,18,male
+1,138, Elation after achieving a personal goal.               ,Negative,3/2/2021 9:30,User135, Facebook ,#Tag135 #Fun,2,50, USA      ,2021,3,2,9,22,male
+3,498,"Amidst the tulip fields of Keukenhof, a tapestry of colors that paints the soul with springtime joy. ",Negative,4/2/2021 18:20,User493, Instagram ,#Tag493 #Fun,2,70, Netherlands ,2021,4,2,18,49,female
+3,494,"In the carnival of emotions, the rollercoaster of thrill sends the heart on a wild ride. ",Negative,3/28/2019 15:30,User489, Instagram ,#Tag489 #Fun,2,70, South Africa ,2019,3,28,15,41,male
+5,131, Empowerment through learning and personal growth.      ,Negative,7/20/2014 11:30,User128, Instagram ,#Tag128 #Fun,2,50,USA,2014,7,20,11,18,female
+9,620,"Participated in a community art class, unleashing creativity in the golden years. Art has no age limit. #ArtClass #SeniorArtistry ",Neutral,6/24/2023 16:15,User615, Twitter ,#Tag615 #Fun,2,45, Canada,2017,6,24,16,54,male
+11,624,"Joined a nature photography club, capturing the beauty of the great outdoors. Every click is a connection to nature. #NaturePhotography #SeniorPhotographer ",Positive,6/28/2023 22:15,User619, Facebook ,#Tag619 #Fun,2,35, UK,2021,6,28,22,62,male
+1,244," Melancholy as a companion, painting the canvas of life with the brushstrokes of wistful yearning. ",Positive,2/25/2019 21:00,User239,Snapchat,#Tag239 #Fun,2,26, UK            ,2019,2,25,21,36,non-binary
+5,416,Giddy with excitement as the first snowflakes dance from the sky. ,Positive,12/2/2020 17:30,User411, Twitter  ,#Tag411 #Fun,2,45, Canada         ,2020,12,2,17,61,female
+1,596,Spent the day binge-watching a new series. Productivity level: Zero. #LazyDay #TVSeriesMarathon ,Positive,5/31/2023 15:30,User591, Facebook ,#Tag591 #Fun,2,70, Canada,2015,5,31,15,22,female
+2,175, Helplessness sinks in as challenges pile up.       ,Negative,6/20/2020 14:20,User172, Twitter  ,#Tag172 #Fun,2,15, Australia    ,2020,6,20,14,37,male
+2,592,"Entered the kitchen with the intention to cook. Left with a bag of chips. Cooking is overrated, anyway. #MasterChefInTraining #TeenHumor ",Neutral,5/27/2023 21:15,User587, Instagram ,#Tag587 #Fun,2,45, Canada,2018,5,27,21,59,non-binary
+2,227," A fiery determination burning within, fueled by the vision of reaching unparalleled heights. ",Negative,9/10/2021 14:45,User224, Instagram ,#Tag224 #Fun,2,40, UK            ,2021,9,10,14,41,non-binary
+7,462,"A soul weathered by the storm of heartbreak, seeking refuge in the calm after. ",Negative,4/18/2019 11:00,User457, Twitter ,#Tag457 #Fun,2,45, Brazil ,2019,4,18,11,46,male
+8,551,"At the golf tournament, the golfer's precision and focus lead to a stunning victory, leaving spectators in awe of their exceptional skill. ",Positive,4/10/2016 18:30,User546, Instagram ,#Tag546 #Fun,2,45, Scotland ,2016,4,10,18,49,female
+4,451,"Sinking like a stone in the ocean of heartbreak, each ripple a sigh of despair. ",Positive,8/10/2017 19:30,User446, Twitter ,#Tag446 #Fun,2,45, France ,2017,8,10,19,33,female
+2,555,"After a series of defeats, the soccer team faces disappointment, struggling to find the silver lining in a challenging season. ",Negative,11/2/2019 18:45,User550, Twitter ,#Tag550 #Fun,2,80, Brazil ,2019,11,2,18,54,male
+2,170, Resentment building up over past betrayals.        ,Negative,5/22/2018 14:45,User167, Instagram ,#Tag167 #Fun,2,15, Australia     ,2018,5,22,14,23,non-binary
+4,558,"In the midst of a cycling race, a tire blowout leads to frustration for the cyclist, who valiantly tries to overcome the unexpected obstacle. ",Neutral,5/15/2017 22:00,User553, Twitter ,#Tag553 #Fun,2,45, France ,2017,5,15,22,40,male
+5,542,"As the movie credits roll, the viewer experiences a mix of awe and contemplation, pondering the deeper meanings woven into the storyline. ",Negative,11/5/2019 21:15,User537, Instagram ,#Tag537 #Fun,2,55, Germany ,2019,11,5,21,27,non-binary
+1,541,"Discovering a hidden gem in the world of documentaries, the viewer is enlightened and inspired, feeling a renewed sense of curiosity. ",Neutral,4/20/2022 17:30,User536, Twitter ,#Tag536 #Fun,2,45, France ,2022,4,20,17,53,non-binary
+5,567,"Amidst the bustling city, a quiet café becomes a sanctuary for reflection, where a cup of coffee brings solace to the wandering mind. ",Neutral,3/15/2022 18:45,User562, Facebook ,#Tag562 #Fun,2,60, France ,2022,3,15,18,30,male
+1,593,"Staring at the clock in class, waiting for the bell to ring like it's the most exciting event of the day. #ClassCountdown #TeenLife ",Neutral,5/28/2023 12:00,User588, Facebook ,#Tag588 #Fun,2,35, USA,2022,5,28,12,56,non-binary
+3,165, Elation after a surprise reunion with a childhood friend.,Neutral,2/5/2021 9:30,User162, Facebook ,#Tag162 #Fun,2,50, Canada      ,2021,2,5,9,39,male
+2,235," A journey into the past, flipping through the pages of an old diary, nostalgia taking the lead. ",Negative,8/10/2018 15:45,User230, Facebook ,#Tag230 #Fun,2,25, Canada        ,2018,8,10,15,33,male
+8,465,"In the void of heartache, echoes of a love song play, each note a pang of longing. ",Negative,7/10/2022 22:15,User460, Instagram ,#Tag460 #Fun,2,60, Japan ,2022,7,10,22,22,non-binary
+2,160, Tenderness in a quiet moment shared with a pet.      ,Negative,2/10/2016 19:45,User157, Twitter  ,#Tag157 #Fun,2,50, Canada   ,2016,2,10,19,46,male
+2,240," Curiosity driving the exploration of the unknown, a seeker of knowledge in uncharted territories. ",Negative,5/8/2022 8:45,User235, Snapchat ,#Tag235 #Fun,2,45, UK            ,2022,5,8,8,46,non-binary
+5,187," Intimidation by the challenges ahead, fear takes hold.",Positive,10/22/2021 18:30,User184, Twitter  ,#Tag184 #Fun,2,30, India         ,2021,10,22,18,56,female
+1,476,"Laughter echoes in the air, a chorus of happiness that lifts the spirit higher. ",Neutral,4/12/2018 18:30,User471, Twitter ,#Tag471 #Fun,2,70, Canada ,2018,4,12,18,53,non-binary
+1,478,"Chasing dreams under the vibrant sky, a journey fueled by hope and enthusiasm. ",Negative,10/28/2019 14:15,User473, Instagram ,#Tag473 #Fun,2,60, Australia ,2019,10,28,14,47,female
+5,194," Loneliness echoes in empty spaces, yearning for connection.",Negative,9/12/2019 18:10,User191, Instagram ,#Tag191 #Fun,2,30, Australia     ,2019,9,12,18,59,male
+2,195," Jealousy poisons my thoughts, resentment brewing within.",Neutral,8/5/2018 16:30,User192, Facebook ,#Tag192 #Fun,2,15, USA           ,2018,8,5,16,61,non-binary
+1,581,"Engulfed in the aroma of freshly brewed coffee, the writer finds inspiration in every sip, embarking on a journey of creativity and prose. ",Positive,2/12/2023 19:45,User576, Twitter ,#Tag576 #Fun,2,45, France ,2023,2,12,19,33,male
+9,440,"Emotional exhaustion, the weight of the world crushing weary shoulders. ",Positive,9/5/2021 13:30,User435, Instagram ,#Tag435 #Fun,2,70, Canada     ,2021,9,5,13,26,non-binary
+3,561,"Experiencing a series of losses in the basketball season, the team grapples with frustration, determined to turn the tide with renewed effort. ",Negative,2/12/2019 19:45,User556, Twitter ,#Tag556 #Fun,2,45, Canada ,2019,2,12,19,58,male
+20,105, Feeling bitter about the unfairness in the workplace.   ,Negative,3/1/2023 17:45,User102, Twitter  ,#Tag102 #Fun,2,30, Canada    ,2023,3,1,17,28,non-binary
+1,415,Curiosity awakened by the mysteries of an ancient archaeological site. ,Neutral,11/8/2015 10:00,User410, Instagram ,#Tag410 #Fun,2,35, Australia ,2015,11,8,10,25,female
+11,381,Whimsical delight in a world of fairy tales and magical creatures.  ,Positive,3/8/2016 14:20,User376, Instagram ,#Tag376 #Fun,2,40, USA             ,2016,3,8,14,46,non-binary
+45,705,Feeling a sense of despair after a major project failure. Hard work didn't pay off this time. ,Positive,9/28/2023 22:00,User700, Facebook ,#Tag700 #Fun,2,41, UK,2019,9,28,22,34,male
+5,633,"Started a book club for seniors, where discussions are as lively as the characters in the novels. #BookClub #SeniorReaders ",Negative,7/7/2023 19:45,User628, Instagram ,#Tag628 #Fun,2,45, UK,2020,7,7,19,23,female
+2,379,Chasing dreams like a kite soaring high in the vast open sky.      ,Positive,2/28/2021 13:00,User374, Twitter  ,#Tag374 #Fun,2,60, Australia         ,2021,2,28,13,60,non-binary
+9,377,Giggles and joy echo in the air during a children's playdate.      ,Neutral,12/15/2020 15:45,User372, Facebook ,#Tag372 #Fun,2,45, Japan            ,2020,12,15,15,50,non-binary
+2,60, Laughter is the best medicine—enjoying a comedy show. ,Positive,2/13/2023 19:30,User57, Facebook ,#Tag57 #Fun,2,45, Canada    ,2023,2,13,19,31,male
+1,59, Pure happiness: celebrating a loved one's achievement! ,Neutral,2/13/2023 10:00,User56, Instagram ,#Tag56 #Fun,2,60, USA ,2023,2,13,10,52,non-binary
+1,376,Intrigued by the symphony of colors in an abstract art exhibition. ,Negative,4/5/2019 17:30,User371, Twitter  ,#Tag371 #Fun,2,35, France           ,2019,4,5,17,57,male
+2,292," Confident strides in the dance of life, a ballroom where self-assuredness leads, twirling through challenges with grace. ",Negative,1/15/2021 13:00,User287, Facebook ,#Tag287 #Fun,2,46, Canada ,2021,1,15,13,42,male
+9,727,Winning a friendly sports competition against rival schools. Victory celebrations in full swing! ,Neutral,10/20/2023 14:15,User722, Twitter ,#Tag722 #Fun,2,50, USA,2018,10,20,14,35,male
+2,298," Proudly scaling the peaks of achievement, a mountaineer conquering challenges and planting the flag of success. ",Negative,1/5/2020 8:45,User293, Twitter ,#Tag293 #Fun,2,46, USA ,2020,1,5,8,35,female
+2,366,Enthusiasm for learning new skills and expanding knowledge.      ,Positive,8/7/2018 12:15,User361, Twitter  ,#Tag361 #Fun,2,60, India             ,2018,8,7,12,49,female
+4,740,Exploring the world of digital art. It's never too late to discover new passions. #DigitalArtistry #LateBloomer ,Positive,12/26/2023 1:05,User735,Snapchat,#Tag735 #Fun,2,44, Australia ,2022,2,4,37,46,male
+4,746,"Embarked on a road trip to revisit cherished places from the past. Nostalgia, the ultimate travel companion. #RoadTrip #NostalgiaTour ",Neutral,12/26/2023 1:05,User741,Snapchat,#Tag741 #Fun,2,70, Canada ,2021,4,4,47,45,female
+2,383,Embracing the thrill of speed on a rollercoaster's exhilarating twists. ,Positive,7/25/2020 12:45,User378, Facebook ,#Tag378 #Fun,2,45, Germany         ,2020,7,25,12,43,male
+2,300," A playful escapade in the carnival of life, carousel laughter and cotton candy dreams swirling in the joyous atmosphere. ",Neutral,8/22/2018 17:20,User295, Facebook ,#Tag295 #Fun,2,48, Australia ,2018,8,22,17,52,female
+6,304," Yearning for a touch that's not there, echoes of a distant warmth haunting the heart in the cold embrace of solitude. ",Negative,11/2/2020 19:30,User299, Instagram ,#Tag299 #Fun,2,20, Australia ,2020,11,2,19,50,male
+3,356,Excitement builds while preparing for a surprise celebration.     ,Neutral,3/5/2023 15:00,User351, Facebook ,#Tag351 #Fun,2,60, Australia          ,2023,3,5,15,50,female
+1,28, Learning a new language for personal growth.       ,Negative,1/23/2023 16:20,User26, Facebook ,#Tag26 #Fun,2,50, India     ,2023,1,23,16,39,male
+5,793,Sneaking snacks into class like a pro. The art of snack-smuggling is a sacred skill! ,Neutral,12/26/2023 1:05,User788,Snapchat,#Tag788 #Fun,2,5, UK ,2018,5,71,4,8,male
+2,20, Sipping coffee and enjoying a good book.           ,Neutral,1/21/2023 8:40,User20, Twitter  ,#Tag20 #Fun,2,45, India    ,2023,1,21,8,47,male
+3,348,Overjoyed by the warmth of a cozy fireplace on a winter evening.   ,Negative,12/8/2021 19:30,User343, Twitter  ,#Tag343 #Fun,2,35, Canada            ,2021,12,8,19,46,female
+5,345,Bittersweet emotions arise while bidding farewell to a dear friend. ,Negative,3/15/2020 18:30,User340, Instagram ,#Tag340 #Fun,2,40, Japan             ,2020,3,15,18,58,male
+1,344,"Reflecting on life's journey, grateful for the lessons learned. ",Positive,12/5/2018 8:45,User339, Twitter  ,#Tag339 #Fun,2,70, Brazil            ,2018,12,5,8,52,male
+48,827,Experiencing cyberbullying. Hateful messages online are disheartening. ,Positive,12/26/2023 1:05,User822,YouTube,#Tag822 #Fun,2,9, USA               ,2016,51,2,6,37,non-binary
+22,828,Caught in a torrential rainstorm without an umbrella. Today's weather is just bad luck. ,Negative,12/26/2023 1:05,User823,YouTube,#Tag823 #Fun,2,8, Canada            ,2023,85,91,5,2,non-binary
+9,9, Missing summer vibes and beach days.               ,Negative,1/17/2023 12:20,User9, Facebook ,#Tag9 #Fun,2,35, Australia ,2023,1,17,12,28,non-binary
+2,340,Thrilled to witness the grandeur of a cultural festival.       ,Neutral,9/15/2020 14:45,User335, Instagram ,#Tag335 #Fun,2,80, India              ,2020,9,15,14,47,male
+1,333," Envious eyes locked on the treasure chest of opportunities, a heartache fueled by the desire for keys that seem forever elusive. ",Negative,1/15/2021 22:10,User328, Twitter ,#Tag328 #Fun,2,40, USA ,2021,1,15,22,22,female
+6,1, Traffic was terrible this morning.                 ,Negative,1/15/2023 8:45,User1, Twitter  ,#Tag1 #Fun,2,10, Canada   ,2023,1,15,8,46,female
+4,772,"Organized a community painting event, turning blank canvases into a masterpiece of shared creativity. #PaintingEvent #SeniorArtist ",Negative,12/26/2023 1:05,User767,Snapchat,#Tag767 #Fun,2,5, Australia ,2022,21,21,48,90,non-binary
+48,76, Kindness witnessed today restored my faith in humanity. ,Negative,2/19/2023 11:30,User73, Twitter  ,#Tag73 #Fun,2,40, USA       ,2023,2,19,11,31,non-binary
+2,286," A playful escapade in the carnival of life, carousel laughter and cotton candy dreams swirling in the joyous atmosphere. ",Negative,8/22/2018 17:20,User281, Facebook ,#Tag281 #Fun,2,48, Australia ,2018,8,22,17,25,non-binary
+25,101, Pride in completing a challenging fitness challenge.    ,Neutral,2/28/2023 16:00,User98, Instagram ,#Tag98 #Fun,2,60, UK            ,2023,2,28,16,18,male
+9,121, Arousal of excitement as I await a special announcement.,Negative,10/30/2017 11:30,User118, Twitter  ,#Tag118 #Fun,2,40, Australia ,2017,10,30,11,50,non-binary
+8,120," A moment of tenderness, connecting with loved ones.    ",Neutral,2/23/2016 19:45,User117, Facebook ,#Tag117 #Fun,2,50, UK          ,2016,2,23,19,51,non-binary
+2,256," A heart overflowing with gratitude, a garden where appreciation blooms in the soil of kindness and connection. ",Negative,2/28/2023 9:45,User251, Facebook ,#Tag251 #Fun,2,40, USA ,2023,2,28,9,57,male
+1,413,Euphoria floods in as the final puzzle piece fits perfectly.       ,Neutral,6/8/2022 15:30,User408, Instagram ,#Tag408 #Fun,2,40, Denmark         ,2022,6,8,15,54,non-binary
+2,260," Soaring on the wings of a free spirit, unburdened by the chains of conformity, painting the sky with independence. ",Neutral,8/15/2021 11:10,User255, Instagram ,#Tag255 #Fun,2,40, India ,2021,8,15,11,42,female
+1,407,Awe-inspired by the vastness of the cosmos on a stargazing night.   ,Negative,7/8/2018 23:00,User402, Instagram ,#Tag402 #Fun,2,80, South Africa    ,2018,7,8,23,39,male
+29,106, Calmness prevails as I practice mindfulness.            ,Positive,3/2/2023 18:00,User103, Facebook ,#Tag103 #Fun,2,30, UK        ,2023,3,2,18,34,non-binary
+55,78, A moment of shame for not standing up against injustice. ,Positive,2/19/2023 19:45,User75, Facebook ,#Tag75 #Fun,2,30, India      ,2023,2,19,19,32,non-binary
+1,405,A burst of artistic creativity in the quietude of an artist's studio. ,Neutral,9/1/2015 16:00,User400, Twitter  ,#Tag400 #Fun,2,30, Italy           ,2015,9,1,16,39,non-binary
+4,400,Dazzled by the elegance of a masquerade ball's dazzling costumes. ,Positive,6/12/2018 20:30,User395, Facebook ,#Tag395 #Fun,2,55, UK               ,2018,6,12,20,45,male
+50,672,Accidentally sent a text meant for a friend to the class group chat. Texting fail: Oops moment! ,Neutral,8/26/2023 17:30,User667, Twitter ,#Tag667 #Fun,2,35, USA,2017,8,26,17,36,male
+51,673,Tried a magic trick to impress classmates. Magic fail: Where did that rabbit go? ,Negative,8/27/2023 20:45,User668, Instagram ,#Tag668 #Fun,2,45, UK,2020,8,27,20,37,male
+2,492,"In the celebration of success, fireworks of accomplishment light up the night sky of triumph. ",Neutral,11/15/2017 22:30,User487, Instagram ,#Tag487 #Fun,2,45, Japan ,2017,11,15,22,21,female
+40,80, The fear of the unknown is keeping me up at night.    ,Positive,2/20/2023 21:15,User77, Instagram ,#Tag77 #Fun,2,30, USA          ,2023,2,20,21,31,male
+27,689,Encountered some mean-spirited comments online. Dealing with online hate is never easy. ,Negative,9/12/2023 12:30,User684,Snapchat,#Tag684 #Fun,2,36, Canada,2021,9,12,12,25,female
+30,93, Embracing acceptance of life's ups and downs.           ,Positive,2/25/2023 18:20,User90, Facebook ,#Tag90 #Fun,2,30, Canada     ,2023,2,25,18,46,male
+27,84, Laughter is the key to joy—attending a stand-up comedy show. ,Positive,2/22/2023 19:30,User81, Facebook ,#Tag81 #Fun,2,45, Canada    ,2023,2,22,19,33,non-binary
+4,397,Joyful laughter resonates through a lively summer carnival.         ,Positive,12/15/2020 15:45,User392, Facebook ,#Tag392 #Fun,2,45, Japan            ,2020,12,15,15,29,non-binary
+63,90, Awe-struck by the beauty of the night sky.               ,Neutral,2/24/2023 20:30,User87, Facebook ,#Tag87 #Fun,2,45, Australia ,2023,2,24,20,42,male
+9,375,Mesmerized by the cosmic dance of fireflies on a moonlit night.    ,Positive,8/10/2022 22:00,User370, Instagram ,#Tag370 #Fun,3,50, Brazil           ,2022,8,10,22,34,female
+1,352,Feeling empowered after conquering a challenging hiking trail.     ,Positive,9/5/2018 14:20,User347, Instagram ,#Tag347 #Fun,3,70, USA               ,2018,9,5,14,50,female
+7,443,"Desperation whispers, the silent plea for a glimmer of hope in the abyss. ",Positive,4/30/2019 14:00,User438,Snapchat,#Tag438 #Fun,3,45, France    ,2019,4,30,14,18,non-binary
+8,425,Drowning in sorrow as memories of lost love resurface.            ,Neutral,8/5/2019 21:00,User420, Instagram ,#Tag420 #Fun,3,30, USA             ,2019,8,5,21,64,female
+2,412,"Embarking on a culinary odyssey, savoring flavors around the world. ",Neutral,3/2/2019 20:20,User407, Twitter  ,#Tag407 #Fun,3,70, Belgium         ,2019,3,2,20,60,female
+9,251,"Wrapped in the cloak of emotional numbness, a shield against the storms of life's turbulence. ",Positive,11/30/2021 15:30,User246, Instagram ,#Tag246 #Fun,3,20, Canada ,2021,11,30,15,58,female
+1,422,Imbued with gratitude for the simple pleasure of a warm cup of tea. ,Positive,2/15/2023 8:30,User417, Twitter  ,#Tag417 #Fun,3,35, Japan           ,2023,2,15,8,62,non-binary
+2,257," Extending a hand, empathetic threads weaving a tapestry of understanding, embracing the joys and sorrows of others. ",Positive,4/3/2018 14:15,User252, Instagram ,#Tag252 #Fun,3,30, UK ,2018,4,3,14,18,non-binary
+11,318," Jealousy, a venom that seeps through the veins, poisoning the heart and turning it into a breeding ground for discontent. ",Positive,12/12/2019 17:00,User313, Twitter ,#Tag313 #Fun,3,32, Australia ,2019,12,12,17,63,non-binary
+4,420,Drenched in nostalgia while flipping through an old family photo album. ,Positive,12/5/2016 21:00,User415, Instagram ,#Tag415 #Fun,3,50, India          ,2016,12,5,21,21,non-binary
+2,320," Frustrated attempts to mend a broken connection, the threads of understanding slipping through the fingers like grains of sand. ",Positive,9/3/2020 12:15,User315, Facebook ,#Tag315 #Fun,3,28, UK ,2020,9,3,12,55,non-binary
+2,277," Bathed in the golden hues of gratefulness, a sunset of appreciation casting its warm glow on the landscapes of the heart. ",Neutral,4/1/2022 18:30,User272, Instagram ,#Tag272 #Fun,3,38, Australia ,2022,4,1,18,52,non-binary
+3,261," Bathed in the glow of inspiration, a creative phoenix rising from the ashes of ordinary thoughts to explore new realms. ",Negative,10/25/2019 16:50,User256, Twitter ,#Tag256 #Fun,3,30, UK ,2019,10,25,16,40,female
+5,410,Savoring the warmth of a cup of cocoa on a chilly winter evening.   ,Neutral,1/12/2020 18:00,User405, Instagram ,#Tag405 #Fun,3,60, Switzerland     ,2020,1,12,18,23,non-binary
+1,359,Captivated by the serenity of a tranquil garden in full bloom.     ,Negative,5/12/2018 14:20,User354, Facebook ,#Tag354 #Fun,3,45, Canada            ,2018,5,12,14,42,non-binary
+2,409,Whispers of inspiration from the rustling leaves in a serene forest. ,Negative,11/15/2016 11:45,User404, Facebook ,#Tag404 #Fun,3,55, Portugal        ,2016,11,15,11,59,non-binary
+4,231," Indifferent to the noise of the world, a silent observer in the midst of life's cacophony. ",Neutral,3/10/2023 16:30,User226, Instagram ,#Tag226 #Fun,3,18, India         ,2023,3,10,16,51,non-binary
+2,469,"Sinking in the quicksand of despair, the harder you fight, the deeper you descend. ",Neutral,10/18/2016 19:30,User464, Twitter ,#Tag464 #Fun,3,40, USA ,2016,10,18,19,22,non-binary
+2,303," Wandering through the desert of loneliness, each step a heavy sigh, mirages of connection shimmering but never materializing. ",Negative,7/20/2017 11:45,User298, Twitter ,#Tag298 #Fun,3,30, USA ,2017,7,20,11,53,non-binary
+2,391,Heartfelt gratitude for the laughter shared during a family reunion. ,Neutral,12/28/2017 19:15,User386, Facebook ,#Tag386 #Fun,3,45,India         ,2017,12,28,19,37,male
+5,378,Enveloped in serenity while practicing mindfulness by the lake.    ,Neutral,10/20/2017 8:15,User373, Instagram ,#Tag373 #Fun,3,70, Canada           ,2017,10,20,8,26,male
+4,268," With a zestful heart, sprinting through fields of enthusiasm, chasing sunbeams and laughter in the meadows of joy. ",Neutral,3/30/2023 16:30,User263, Instagram ,#Tag263 #Fun,3,32, India ,2023,3,30,16,43,female
+1,392,"Embarking on a culinary adventure, savoring exotic flavors around the world. ",Negative,3/2/2019 20:20,User387, Twitter  ,#Tag387 #Fun,3,70, Belgium         ,2019,3,2,20,18,female
+6,367,Surprise and delight at discovering a hidden gem in the city.    ,Positive,10/18/2019 16:45,User362, Instagram ,#Tag362 #Fun,3,35, UK                ,2019,10,18,16,64,male
+1,370,Optimism for a bright future amidst challenging times.           ,Neutral,7/5/2021 9:30,User365, Instagram ,#Tag365 #Fun,3,40, Canada            ,2021,7,5,9,19,female
+8,295," Whispering tales of inspiration to the stars, a storyteller crafting constellations from the threads of imagination. ",Neutral,8/29/2020 20:45,User290, Facebook ,#Tag290 #Fun,3,28, UK ,2020,8,29,20,46,female
+3,293," Hopeful whispers of wind, carrying the promises of a brighter tomorrow, a symphony of optimism in the air of possibilities. ",Positive,5/6/2023 7:20,User288, Twitter ,#Tag288 #Fun,3,30, India ,2023,5,6,7,52,female
+4,243," Wrapped in the cloak of emotional numbness, a shield against the storms of life's turbulence. ",Neutral,11/30/2021 15:30,User238,Snapchat,#Tag238 #Fun,3,20, Canada        ,2021,11,30,15,53,female
+4,480,"Basking in the glow of accomplishment, each milestone a stepping stone to happiness. ",Positive,6/10/2020 17:30,User475, Facebook ,#Tag475 #Fun,3,55, Germany ,2020,6,10,17,40,male
+8,236," Ambivalence clouding decisions, caught in the crossroads of conflicting emotions. ",Neutral,1/15/2022 10:30,User231, Twitter  ,#Tag231 #Fun,3,30, India         ,2022,1,15,10,50,male
+2,0, Enjoying a beautiful day at the park!              ,Negative,1/15/2023 12:30,User0, Twitter  ,#Tag0 #Fun,3,30, USA      ,2023,1,15,12,56,male
+5,516,"Dancing under the stars at Beyoncé's live show, feeling the power of 'Single Ladies' in every move. ",Positive,7/28/2019 21:30,User511, Twitter ,#Tag511 #Fun,3,70, USA ,2019,7,28,21,46,female
+3,576,"In the heart of a bustling market, the street food connoisseur indulges in a culinary adventure, savoring diverse flavors and aromas. ",Negative,8/28/2019 19:30,User571, Instagram ,#Tag571 #Fun,3,70, Thailand ,2019,8,28,19,45,male
+58,674,Perfecting the art of creating origami during a dull lecture. Origami mastery: A+! ,Positive,8/28/2023 16:00,User669, Twitter ,#Tag669 #Fun,3,36, USA,2016,8,28,16,35,male
+5,156, Gratitude for the small joys that each day brings.   ,Positive,3/30/2012 11:20,User153, Facebook ,#Tag153 #Fun,3,30, Australia   ,2012,3,30,11,56,non-binary
+5,29, Quiet evening with a good book.                    ,Negative,1/23/2023 19:45,User27, Instagram ,#Tag27 #Fun,3,30, Australia ,2023,1,23,19,61,female
+1,151, Reverence for the historical significance of a landmark.,Positive,11/1/2017 15:30,User148, Twitter  ,#Tag148 #Fun,3,35, Australia ,2017,11,1,15,49,male
+1,785,Trying to master the perfect kickflip on my skateboard. Skating into the weekend like a pro! ,Negative,12/26/2023 1:05,User780,Snapchat,#Tag780 #Fun,3,7, Australia ,2018,4,3,12,14,male
+5,597,Caught up on the latest fashion trends and now planning a shopping spree. #Fashionista #TrendyTeen ,Negative,6/1/2023 18:00,User592, Twitter ,#Tag592 #Fun,3,40, USA,2020,6,1,18,52,male
+7,141, Contentment in the simplicity of a home-cooked meal. ,Negative,9/12/2015 13:20,User138, Facebook ,#Tag138 #Fun,3,50, India    ,2015,9,12,13,56,male
+1,604,Embarked on a DIY home decor project. Let's hope it turns out better than last time. #DIYAdventure #TeenHomeDecor ,Negative,6/8/2023 16:00,User599, Instagram ,#Tag599 #Fun,3,70, UK,2018,6,8,16,29,female
+45,73, Finding calmness in the midst of a busy day.            ,Positive,2/18/2023 9:30,User70, Twitter  ,#Tag70 #Fun,3,30, India     ,2023,2,18,9,51,female
+8,664,"Spent hours on a TikTok dance, only to realize I have two left feet. Dance fail: Unleashed! ",Positive,8/18/2023 16:30,User659, Facebook ,#Tag659 #Fun,3,50, USA,2016,8,18,16,64,female
+4,606,Started a blog about random thoughts and musings. Blogging is the new diary. #BloggerLife #TeenBlogger ,Neutral,6/10/2023 17:30,User601, Twitter ,#Tag601 #Fun,3,60, Canada,2019,6,10,17,27,non-binary
+3,615,"Embarked on a road trip to revisit cherished places from the past. Nostalgia, the ultimate travel companion. #RoadTrip #NostalgiaTour ",Positive,6/19/2023 16:30,User610, Facebook ,#Tag610 #Fun,3,45, Canada,2023,6,19,16,26,male
+22,715,Exploring a new part-time job opportunity for gaining work experience. Career development in progress. ,Negative,10/8/2023 15:15,User710, Facebook ,#Tag710 #Fun,3,48, USA,2019,10,8,15,23,non-binary
+1,619,"Sipping on a favorite vintage wine, each sip telling a story of the years gone by. Cheers to a life well-lived. #WineLover #VintageCheers ",Negative,6/23/2023 18:45,User614, Instagram ,#Tag614 #Fun,3,55, UK,2019,6,23,18,46,male
+5,760,"Started a community garden, growing not just plants but friendships too. Green thumbs unite! #CommunityGarden #SeniorGardener ",Neutral,12/26/2023 1:05,User755,Snapchat,#Tag755 #Fun,3,91, Canada ,2020,72,2,2,9,non-binary
+1,37, Quality time with family this weekend.             ,Negative,1/26/2023 17:40,User35, Facebook ,#Tag35 #Fun,3,45, UK        ,2023,1,26,17,61,male
+4,637,Hosted a photography exhibition featuring snapshots of a life well-lived. Every photo has a story to tell. #PhotographyExhibition #SeniorPhotographer ,Positive,7/11/2023 18:45,User632, Twitter ,#Tag632 #Fun,3,45, Canada,2016,7,11,18,56,non-binary
+1,641,"Organized a community painting event, turning blank canvases into a masterpiece of shared creativity. #PaintingEvent #SeniorArtist ",Neutral,7/15/2023 19:30,User636, Facebook ,#Tag636 #Fun,3,55, Canada,2019,7,15,19,36,male
+1,116, Overflowing with gratitude for life's blessings.      ,Neutral,11/25/2012 10:00,User113, Instagram ,#Tag113 #Fun,3,60, Australia   ,2012,11,25,10,24,non-binary
+7,506,"Captivated by the historical charm of the Colosseum, each stone echoing tales of gladiator valor. ",Neutral,3/15/2018 17:30,User501, Twitter ,#Tag501 #Fun,3,50, Italy ,2018,3,15,17,60,non-binary
+1,648,Exploring the world of coding. Debugging is an adventure on its own! #CodingJourney #HighSchoolCoder ,Positive,8/2/2023 14:45,User643, Twitter ,#Tag643 #Fun,3,50, UK,2022,8,2,14,45,non-binary
+5,135, Enthusiasm for a creative project in the making.       ,Positive,9/15/2018 16:00,User132, Facebook ,#Tag132 #Fun,3,30, Canada    ,2018,9,15,16,31,female
+2,158, Empowerment through learning a new skill.            ,Positive,7/10/2014 13:15,User155, Instagram ,#Tag155 #Fun,3,50, India   ,2014,7,10,13,32,female
+52,675,Attempting to set a new record for the most consecutive hacky sack kicks. Hacky sack skills: Unleashed! ,Negative,8/29/2023 13:45,User670, Instagram ,#Tag670 #Fun,3,48, Canada,2019,8,29,13,64,male
+5,162, Enthusiasm for a DIY home improvement project.       ,Negative,4/15/2018 16:00,User159, Facebook ,#Tag159 #Fun,3,30, Australia   ,2018,4,15,16,30,female
+1,518,"Rocking out to the guitar solos at a Queen tribute concert, a journey back in time with Freddie's spirit. ",Negative,12/2/2018 22:15,User513, Instagram ,#Tag513 #Fun,3,45, UK ,2018,12,2,22,29,male
+2,191, Disgust at the corruption that stains society.     ,Negative,7/1/2016 9:45,User188, Instagram ,#Tag188 #Fun,3,15, UK            ,2016,7,1,9,26,non-binary
+49,848,Exploring a new hobby of photography during free time. Capturing moments through a lens. ,Positive,12/26/2023 1:05,User843,YouTube,#Tag843 #Fun,3,3, Italy           ,2019,86,9,58,42,non-binary
+48,706,Experiencing hate comments for expressing personal opinions. Online negativity prevails. ,Negative,9/29/2023 15:45,User701, Twitter ,#Tag701 #Fun,3,48, USA,2015,9,29,15,26,non-binary
+13,5, Feeling grateful for the little things in life.    ,Neutral,1/16/2023 9:10,User5, Twitter  ,#Tag5 #Fun,3,50, India    ,2023,1,16,9,38,male
+50,66, Experiencing awe at the breathtaking sunset.            ,Neutral,2/15/2023 20:30,User63, Facebook ,#Tag63 #Fun,3,45, Australia   ,2023,2,15,20,23,female
+20,830,Dealing with unfounded rumors circulating about personal life. Rumors can be hurtful. ,Positive,12/26/2023 1:05,User825,YouTube,#Tag825 #Fun,3,8, UK                ,2017,5,32,5,89,male
+20,711,Sharing favorite book recommendations with classmates. Building a mini book club. ,Neutral,10/4/2023 18:20,User706, Facebook ,#Tag706 #Fun,3,38, UK,2021,10,4,18,46,non-binary
+2,572,"Wandering through a historical museum, the history enthusiast becomes immersed in the tales of the past, envisioning bygone eras. ",Positive,12/18/2015 18:00,User567, Twitter ,#Tag567 #Fun,3,55, Italy ,2015,12,18,18,36,female
+1,527,"Immersed in the soulful melodies of Adele, tears flow freely, moved by the emotion of 'Hello'. ",Negative,11/28/2019 19:45,User522, Facebook ,#Tag522 #Fun,3,60, UK ,2019,11,28,19,46,female
+9,186," Anxiety grips my chest, a relentless grip on my thoughts.",Neutral,9/5/2018 9:30,User183, Facebook ,#Tag183 #Fun,3,20, UK            ,2018,9,5,9,20,non-binary
+22,826,Feeling lonely on a Saturday night. Sometimes solitude hits harder than expected. ,Negative,12/26/2023 1:05,User821,YouTube,#Tag821 #Fun,3,1, UK                ,2020,42,18,2,76,male
+1,530,"Dancing to Shakira's rhythmic beats, hips swaying to the hypnotic charm of 'Hips Don't Lie'. ",Positive,2/28/2022 21:15,User525, Facebook ,#Tag525 #Fun,3,55, Colombia ,2022,2,28,21,43,female
+9,182," Jealousy gnaws at my confidence, a toxic emotion.  ",Positive,6/3/2018 16:30,User179, Instagram ,#Tag179 #Fun,3,15, India         ,2018,6,3,16,18,non-binary
+4,543,"Binge-watching a thrilling crime series, the suspense keeps the viewer on the edge of their seat, creating a rush of adrenaline. ",Positive,7/12/2015 22:00,User538, Facebook ,#Tag538 #Fun,3,70, Japan ,2015,7,12,22,54,male
+18,821,Had a bad day at school. Everything seems to be going wrong. ,Neutral,12/26/2023 1:05,User816,YouTube,#Tag816 #Fun,3,71, UK                ,2018,8,5,83,10,male
+22,683,Organizing a movie marathon with friends. Popcorn and cinematic adventures await! ,Negative,9/6/2023 16:45,User678, Facebook ,#Tag678 #Fun,3,43, UK,2017,9,6,16,40,non-binary
+18,713,Collaborating on a school project with peers. Teamwork makes the dream work. ,Negative,10/6/2023 17:30,User708, Twitter ,#Tag708 #Fun,3,36, Canada,2022,10,6,17,63,female
+11,796,Accidentally liked my crush's old photo while stalking their profile. Awkward level: Maximum! ,Neutral,12/26/2023 1:05,User791,YouTube,#Tag791 #Fun,3,4, USA ,2020,2,46,8,8,non-binary
+61,714,Attending a school club meeting to explore new interests. Dabbling in extracurricular activities. ,Negative,10/7/2023 20:45,User709, Instagram ,#Tag709 #Fun,3,45, UK,2016,10,7,20,52,female
+38,677,Embarking on a mission to find the best burger joint in town. Burger connoisseur: Reporting for duty! ,Negative,8/31/2023 20:15,User672, Twitter ,#Tag672 #Fun,3,42, UK,2018,8,31,20,31,female
+2,529,"In the audience of a Jay-Z performance, the lyrics of 'Empire State of Mind' become an anthem of pride. ",Neutral,9/10/2017 20:15,User524, Twitter ,#Tag524 #Fun,3,35, USA ,2017,9,10,20,27,male
+1,728,Receiving a heartfelt letter from a pen pal in another country. Connecting across the globe! ,Negative,10/21/2023 17:30,User723,Snapchat,#Tag723 #Fun,3,45, Canada,2021,10,21,17,49,female
+2,718,Participating in a science fair to showcase a unique experiment. Sharing knowledge with peers. ,Positive,10/11/2023 16:45,User713, Facebook ,#Tag713 #Fun,4,37, USA,2019,10,11,16,64,non-binary
+51,704,Having a bad hair day and feeling self-conscious. Bad hair days can affect confidence. ,Negative,9/27/2023 17:30,User699, Instagram ,#Tag699 #Fun,4,36, Canada,2022,9,27,17,44,non-binary
+1,722,Participating in a debate club to enhance critical thinking and communication skills. Intellectual engagement in progress. ,Neutral,10/15/2023 20:45,User717, Twitter ,#Tag717 #Fun,4,43, Canada,2021,10,15,20,47,female
+3,372,Happiness blooms like flowers in a garden on a sunny day.        ,Neutral,2/10/2020 11:15,User367, Twitter  ,#Tag367 #Fun,4,30, India             ,2020,2,10,11,59,non-binary
+2,363,Appreciation for the vibrant culture experienced during travel.   ,Negative,11/14/2016 13:45,User358, Twitter  ,#Tag358 #Fun,4,55, UK                ,2016,11,14,13,57,female
+7,732,Collaborating on a science project that received recognition at a regional fair. Science triumphs and smiles! ,Positive,8/18/2017 18:20,User727, Facebook ,#Tag727 #Fun,4,39, UK,2020,8,18,18,43,male
+62,843,Experimenting with a new recipe for a school bake sale. Baking adventures in the kitchen. ,Negative,12/26/2023 1:05,User838,YouTube,#Tag838 #Fun,4,7, UK               ,2021,98,3,6,6,female
+8,339,Nostalgia hits while flipping through an old photo album.     ,Negative,6/28/2019 19:00,User334, Facebook ,#Tag334 #Fun,4,45, UK                ,2019,6,28,19,45,non-binary
+36,836,Feeling a sense of despair after a major project failure. Hard work didn't pay off this time. ,Positive,12/26/2023 1:05,User831,YouTube,#Tag831 #Fun,4,45, USA               ,2020,3,1,45,45,male
+1,341,Calmness found in the rhythm of raindrops on the windowpane.   ,Negative,11/8/2017 21:20,User336, Twitter  ,#Tag336 #Fun,4,35, Australia          ,2017,11,8,21,46,female
+6,811,Attempting to impress the teacher with an elaborate science experiment. Science geek mode: Activated! ,Negative,12/26/2023 1:05,User806,YouTube,#Tag806 #Fun,4,59, Canada            ,2022,6,2,5,13,male
+2,801,Planning a surprise scavenger hunt for friends. Anticipating the thrill and excitement! ,Positive,12/26/2023 1:05,User796,YouTube,#Tag796 #Fun,4,61, Canada            ,2021,6,86,6,40,female
+9,792,Attempting to break the school record for the longest handstand. Wish me luck! ,Neutral,12/26/2023 1:05,User787,Snapchat,#Tag787 #Fun,4,82, USA ,2019,80,2,8,9,female
+1,791,Mastering the art of the perfect doodle during boring classes. Doodles: A+! ,Positive,12/26/2023 1:05,User786,Snapchat,#Tag786 #Fun,4,9, Canada ,2022,7,17,23,8,non-binary
+5,353,Amused by the antics of playful kittens during playtime.           ,Neutral,10/22/2022 12:45,User348, Facebook ,#Tag348 #Fun,4,30, Canada            ,2022,10,22,12,38,female
+2,355,Joyful reunion with long-lost friends after years of separation.   ,Negative,11/18/2020 17:10,User350, Instagram ,#Tag350 #Fun,4,40, India             ,2020,11,18,17,40,male
+4,784,"Accidentally spilled paint in art class. Abstract art, right? #ArtClassAdventures #HighSchoolArtist ",Positive,12/26/2023 1:05,User779,Snapchat,#Tag779 #Fun,4,85, USA ,2020,3,8,7,4,male
+2,766,"Participated in a local theater production, proving that the stage belongs to every age. #TheaterProduction #SeniorActor ",Negative,12/26/2023 1:05,User761,Snapchat,#Tag761 #Fun,4,30, USA ,2021,54,64,4,11,female
+1,759,"Attended a vintage car show, reminiscing about the classics that once ruled the roads. Nostalgia in every rev. #VintageCars #ClassicRides ",Negative,12/26/2023 1:05,User754,Snapchat,#Tag754 #Fun,4,56, Australia ,2015,4,21,6,1,non-binary
+5,737,Started a blog about random thoughts and musings. Blogging is the new diary. #BloggerLife #TeenBlogger ,Neutral,12/26/2023 1:05,User732,Snapchat,#Tag732 #Fun,4,6, Canada ,2019,2,3,3,8,non-binary
+6,736,"Spent the afternoon at a museum, pretending to be cultured. Art enthusiast in the making. #MuseumDay #TeenArtLover ",Negative,12/26/2023 1:05,User731,Snapchat,#Tag731 #Fun,4,2, India ,2021,92,1,2,49,male
+3,724,Successfully completing a challenging coding project. Excitement for overcoming coding hurdles! ,Negative,10/17/2023 12:30,User719, Twitter ,#Tag719 #Fun,4,48, USA,2019,10,17,12,22,male
+7,380,Spellbound by the elegance of a ballroom dance under crystal chandeliers. ,Neutral,6/12/2018 20:30,User375, Facebook ,#Tag375 #Fun,4,55, UK               ,2018,6,12,20,56,female
+8,668,Trying to set a new trend by juggling textbooks between classes. Academic juggling: A unique skill! ,Positive,8/22/2023 12:30,User663, Facebook ,#Tag663 #Fun,4,40, Canada,2022,8,22,12,28,male
+18,697,Caught in a torrential rainstorm without an umbrella. Today's weather is just bad luck. ,Neutral,9/20/2023 12:30,User692,Snapchat,#Tag692 #Fun,4,35, USA,2020,9,20,12,43,male
+3,435,"Soul-crushing disappointment, hopes shattered like fragile glass. ",Positive,10/8/2019 18:30,User430, Twitter  ,#Tag430 #Fun,4,40, Spain        ,2019,10,8,18,45,male
+9,436,"Painful echoes of a love once cherished, now lost in the abyss of time. ",Positive,11/22/2016 9:45,User431, Facebook ,#Tag431 #Fun,4,45, Netherlands  ,2016,11,22,9,43,male
+8,437,"Heartache deepens, a solitary journey through the abyss of despair. ",Negative,8/18/2022 22:00,User432, Instagram ,#Tag432 #Fun,4,80, South Africa ,2022,8,18,22,54,male
+2,442,"Darkness descends, engulfing the soul in the shadows of despair.  ",Negative,7/10/2016 18:20,User437, Facebook ,#Tag437 #Fun,4,55, USA         ,2016,7,10,18,18,male
+5,330," Jealousy, a festering wound, the pain intensifying with each glance at the garden of others' achievements, blooming beyond the fence. ",Neutral,3/17/2018 14:45,User325, Twitter ,#Tag325 #Fun,4,32, UK ,2018,3,17,14,45,female
+7,569,"In the world of science, a breakthrough discovery unfolds, pushing the boundaries of knowledge and opening new frontiers of exploration. ",Neutral,5/20/2020 16:30,User564, Twitter ,#Tag564 #Fun,4,55, Germany ,2020,5,20,16,53,male
+9,553,"In the cycling world championship, the climber conquers challenging terrains, symbolizing determination and achievement against all odds. ",Negative,9/28/2015 22:30,User548, Facebook ,#Tag548 #Fun,4,70, Italy ,2015,9,28,22,40,male
+4,546,"At the Olympics, the athlete's perseverance shines through, earning a gold medal and inspiring a generation with their remarkable achievement. ",Neutral,8/8/2020 19:45,User541, Twitter ,#Tag541 #Fun,4,70, USA ,2020,8,8,19,52,non-binary
+3,545,"Celebrating a historic victory in the World Cup, the nation erupts in joy, united by the triumph of their football team. ",Neutral,7/15/2018 21:30,User540, Instagram ,#Tag540 #Fun,4,80, Brazil ,2018,7,15,21,41,female
+1,467,"In the symphony of grief, each tear is a note, composing a melancholic melody. ",Positive,11/28/2018 14:00,User462, Facebook ,#Tag462 #Fun,4,45, Germany ,2018,11,28,14,47,male
+2,472,"Whispers of lost love linger in the attic of the heart, forgotten but not erased. ",Positive,9/10/2019 21:00,User467, Twitter ,#Tag467 #Fun,4,45, Australia ,2019,9,10,21,43,female
+2,475,"Dancing on sunshine, each step a celebration of the joy found in simple moments. ",Neutral,8/20/2021 15:45,User470, Instagram ,#Tag470 #Fun,4,80, USA ,2021,8,20,15,56,male
+4,526,"In the spotlight at a Lady Gaga show, each costume change is a metamorphosis of creativity and artistry. ",Neutral,4/15/2021 21:30,User521, Twitter ,#Tag521 #Fun,4,70, USA ,2021,4,15,21,25,male
+2,477,"In the garden of contentment, each bloom whispers tales of inner peace and joy. ",Negative,2/15/2022 12:20,User472, Facebook ,#Tag472 #Fun,4,50, UK ,2022,2,15,12,50,non-binary
+7,525,"At a Justin Bieber concert, the infectious beats of 'Baby' create a dance floor of unbridled enthusiasm. ",Positive,8/5/2018 20:00,User520, Instagram ,#Tag520 #Fun,4,80, Canada ,2018,8,5,20,43,male
+1,522,"Swinging to the rhythms of a Frank Sinatra tribute, feeling the timeless charm of 'Fly Me to the Moon'. ",Positive,6/10/2019 18:45,User517, Twitter ,#Tag517 #Fun,4,45, USA ,2019,6,10,18,52,non-binary
+3,482,"Overflowing with joy, a cup of laughter shared with friends, a moment cherished. ",Positive,3/10/2023 14:30,User477, Twitter ,#Tag477 #Fun,4,40, Japan ,2023,3,10,14,22,non-binary
+2,595,"Bought a new video game, played for hours, forgot to eat. The ultimate gaming session. #GamerLife #NoFoodGaming ",Neutral,5/30/2023 20:45,User590, Instagram ,#Tag590 #Fun,4,45, USA,2018,5,30,20,48,non-binary
+62,698,Missing an important event due to unforeseen circumstances. A day filled with sadness. ,Neutral,9/21/2023 16:45,User693, Instagram ,#Tag693 #Fun,4,39, Canada,2018,9,21,16,25,male
+2,428,"Despair clouds the mind, feeling adrift in an endless sea of darkness. ",Neutral,5/15/2016 22:30,User423, Instagram ,#Tag423 #Fun,4,55, Australia        ,2016,5,15,22,33,non-binary
+6,627,"Embarked on a solo travel adventure, discovering the beauty of new places at my own pace. #SoloTravel #SeniorExplorer ",Positive,7/1/2023 14:00,User622, Instagram ,#Tag622 #Fun,4,60, USA,2023,7,1,14,34,female
+27,690,Had a bad day at school. Everything seems to be going wrong. ,Positive,9/13/2023 16:45,User685, Facebook ,#Tag685 #Fun,4,40, UK,2019,9,13,16,55,non-binary
+3,387,A sense of wonder at the vastness of the cosmos on a stargazing night. ,Positive,7/8/2018 23:00,User382, Instagram ,#Tag382 #Fun,4,80, South Africa    ,2018,7,8,23,30,female
+55,684,Experimenting with a new hair color. A bold change for a bold semester! ,Neutral,9/7/2023 18:20,User679, Instagram ,#Tag679 #Fun,4,39, USA,2022,9,7,18,28,female
+5,390,Savoring the warmth of a cup of cocoa on a chilly winter evening.   ,Negative,1/12/2020 18:00,User385, Instagram ,#Tag385 #Fun,4,60, Switzerland     ,2020,1,12,18,62,female
+48,682,Attempting to beat the record for the most consecutive cartwheels. Cartwheel challenge: Underway! ,Neutral,9/5/2023 12:30,User677, Twitter ,#Tag677 #Fun,4,52, Canada,2020,9,5,12,33,female
+2,669,Hiding a snack stash in my backpack for emergency cravings. Snack ninja mode: Activated! ,Negative,8/23/2023 16:45,User664, Twitter ,#Tag664 #Fun,4,55, USA,2018,8,23,16,54,female
+1,401,Whimsical delight in a world of whimsical fairy tales.             ,Positive,3/8/2016 14:20,User396, Instagram ,#Tag396 #Fun,4,40, USA             ,2016,3,8,14,51,non-binary
+2,403,Riding the adrenaline rush on a rollercoaster's wild twists.      ,Negative,7/25/2020 12:45,User398, Facebook ,#Tag398 #Fun,4,45, Germany         ,2020,7,25,12,49,male
+1,404,Harmony resonates as musicians play a symphony of unity.           ,Neutral,11/30/2019 19:30,User399, Instagram ,#Tag399 #Fun,4,70, Sweden          ,2019,11,30,19,40,male
+4,663,Hosting a sleepover with friends this weekend. Preparing for a night of laughter and memories! ,Neutral,8/17/2023 22:15,User658, Twitter ,#Tag658 #Fun,4,35, UK,2020,8,17,22,62,non-binary
+5,659,Got my hands on the latest fantasy novel. Diving into realms of magic and adventure! ,Negative,8/13/2023 20:00,User654, Instagram ,#Tag654 #Fun,4,70, UK,2022,8,13,20,23,non-binary
+2,657,Successfully organized a surprise birthday party for a friend. Party planning expert mode: Achieved! ,Neutral,8/11/2023 18:45,User652, Twitter ,#Tag652 #Fun,4,45, Canada,2019,8,11,18,50,female
+8,645,"Started a blog sharing the wisdom gained through the years, proving that every day is a chance to learn and grow. #SeniorWisdom #Blog ",Neutral,7/19/2023 19:45,User640, Instagram ,#Tag640 #Fun,4,45, UK,2023,7,19,19,30,female
+1,644,"Attended a local jazz festival, tapping toes to the tunes that have stood the test of time. Music, a lifelong love affair. #JazzFestival #SeniorMusicLover ",Negative,7/18/2023 16:30,User639, Facebook ,#Tag639 #Fun,4,50, USA,2016,7,18,16,62,male
+4,643,"Joined a seniors' astronomy club, stargazing and finding wonder in the vastness of the cosmos. #AstronomyClub #SeniorStargazer ",Negative,7/17/2023 22:15,User638, Twitter ,#Tag638 #Fun,4,35, UK,2020,7,17,22,20,male
+5,636,"Embarked on a hiking adventure, conquering trails and relishing the beauty of nature. Age is just a number on the mountaintop. #HikingAdventure #SeniorHiker ",Negative,7/10/2023 14:20,User631, Instagram ,#Tag631 #Fun,4,55, UK,2022,7,10,14,61,male
+5,628,"Attended a vintage car show, reminiscing about the classics that once ruled the roads. Nostalgia in every rev. #VintageCars #ClassicRides ",Positive,7/2/2023 18:30,User623, Facebook ,#Tag623 #Fun,4,45, UK,2022,7,2,18,24,male
+8,617,"Exploring the art of meditation, finding tranquility in the stillness of the mind. #MeditationJourney #TranquilMind ",Positive,6/21/2023 19:00,User612, Twitter ,#Tag612 #Fun,4,35, UK,2020,6,21,19,19,non-binary
+11,570,"Connecting with the melody of a live orchestra, the music enthusiast experiences a symphony that resonates deep within the soul. ",Positive,8/22/2016 19:45,User565, Facebook ,#Tag565 #Fun,4,35, UK ,2016,8,22,19,29,female
+2,429,"Shattered by betrayal, trust crumbles like fragile glass.          ",Negative,9/10/2018 13:15,User424, Twitter  ,#Tag424 #Fun,4,45, Germany         ,2018,9,10,13,30,female
+5,19, Winter blues got me feeling low.                   ,Positive,1/20/2023 15:15,User19, Instagram ,#Tag19 #Fun,4,15, USA       ,2023,1,20,15,61,female
+4,306," Apprehensive steps on the tightrope of uncertainty, a balancing act where the fall seems inevitable, anxiety a constant companion. ",Positive,4/8/2023 13:15,User301, Twitter ,#Tag301 #Fun,4,28, UK ,2023,4,8,13,50,male
+7,269," A compassionate rain, tears of empathy falling gently, nurturing the seeds of kindness in the garden of human connections. ",Negative,7/1/2021 12:10,User264, Facebook ,#Tag264 #Fun,4,42, Canada ,2021,7,1,12,19,non-binary
+26,89, Sending affectionate vibes to friends and family.        ,Negative,2/24/2023 16:00,User86, Instagram ,#Tag86 #Fun,4,30,USA,2023,2,24,16,43,male
+34,74, Confusion clouds my mind as I navigate through decisions.,Negative,2/18/2023 14:20,User71, Instagram ,#Tag71 #Fun,4,50, UK   ,2023,2,18,14,27,non-binary
+1,207," Facing challenges head-on, a determination that fuels the fire within to achieve the impossible. ",Negative,9/18/2020 13:45,User204, Facebook ,#Tag204 #Fun,4,20, India        ,2020,9,18,13,34,non-binary
+4,206," Embracing the ebb and flow of life, finding acceptance in the dance of existence. ",Neutral,1/10/2023 16:20,User203, Instagram ,#Tag203 #Fun,4,30, UK           ,2023,1,10,16,54,male
+1,205," Torn between conflicting emotions, an ambivalence that paints my decisions in shades of uncertainty. ",Negative,5/30/2022 11:30,User202, Twitter  ,#Tag202 #Fun,4,25, Canada        ,2022,5,30,11,20,male
+2,172," Boredom sets in, the day feels endlessly dull.     ",Positive,9/28/2016 19:45,User169, Twitter  ,#Tag169 #Fun,4,15, Canada        ,2016,9,28,19,45,male
+1,272," A playful escapade in the carnival of life, carousel laughter and cotton candy dreams swirling in the joyous atmosphere. ",Neutral,8/22/2018 17:20,User267, Facebook ,#Tag267 #Fun,4,48, Australia ,2018,8,22,17,22,male
+7,35, Feeling inspired after attending a workshop.       ,Negative,1/26/2023 9:45,User33, Instagram ,#Tag33 #Fun,4,50,USA,2023,1,26,9,32,female
+8,58, The state of the world's environment is just disgusting. ,Neutral,2/12/2023 18:20,User55, Twitter  ,#Tag55 #Fun,4,35, UK         ,2023,2,12,18,64,non-binary
+38,87, Enjoying every moment of this trip—pure enjoyment!      ,Positive,2/23/2023 19:45,User84, Facebook ,#Tag84 #Fun,4,50, USA ,2023,2,23,19,64,male
+8,276," A free spirit soaring on the wings of dreams, leaving trails of independence in the azure sky of boundless possibilities. ",Positive,6/10/2020 10:05,User271, Twitter ,#Tag271 #Fun,4,44, UK ,2020,6,10,10,58,non-binary
+8,183," Resentment festers, poisoning relationships.       ",Negative,1/15/2022 12:00,User180, Facebook ,#Tag180 #Fun,4,20, Australia    ,2022,1,15,12,44,non-binary
+4,197," Frustration escalates, a thunderstorm of emotions. ",Negative,4/5/2022 14:45,User194, Instagram ,#Tag194 #Fun,4,25, UK            ,2022,4,5,14,32,non-binary
+5,284," Proudly scaling the peaks of achievement, a mountaineer conquering challenges and planting the flag of success. ",Neutral,1/5/2020 8:45,User279, Twitter ,#Tag279 #Fun,4,46, USA ,2020,1,5,8,41,non-binary
+3,47, New book release from my favorite author!          ,Neutral,1/30/2023 15:45,User45, Instagram ,#Tag45 #Fun,4,25, UK   ,2023,1,30,15,31,female
+2,188," Helplessness engulfs me, drowning in a sea of problems.",Negative,5/8/2019 14:20,User185, Instagram ,#Tag185 #Fun,4,15, Australia    ,2019,5,8,14,23,female
+6,193," Grief overwhelms, a storm of emotions within.      ",Positive,2/25/2021 15:30,User190, Twitter  ,#Tag190 #Fun,4,25, Canada        ,2021,2,25,15,50,non-binary
+9,7, The new movie release is a must-watch!             ,Positive,1/16/2023 19:30,User7, Instagram ,#Tag7 #Fun,4,30, USA    ,2023,1,16,19,36,male
+3,181," Loneliness in a crowded room, a silent cry for connection.",Positive,7/12/2019 18:10,User178, Twitter  ,#Tag178 #Fun,4,30, UK            ,2019,7,12,18,50,male
+3,309," Devastated by the storm of betrayal, the wreckage of trust scattered like debris, a heart torn by the winds of broken promises. ",Negative,8/3/2022 15:30,User304, Twitter ,#Tag304 #Fun,4,50, Australia ,2022,8,3,15,37,female
+11,190, Regret for decisions that led to a painful present.,Positive,12/15/2018 16:00,User187, Twitter  ,#Tag187 #Fun,4,25, USA          ,2018,12,15,16,44,female
+4,226," Embracing life's imperfections, finding acceptance in the journey, scars and all. ",Positive,5/15/2023 16:20,User223, Twitter  ,#Tag223 #Fun,4,36, Canada        ,2023,5,15,16,55,female
+2,237," Embracing imperfections, finding acceptance in the mosaic of life's beautiful chaos. ",Negative,7/20/2021 16:20,User232, Instagram ,#Tag232 #Fun,4,36, Australia     ,2021,7,20,16,26,male
+6,113, The victory of our team brought euphoria to the city. ,Negative,8/10/2021 21:15,User110, Instagram ,#Tag110 #Fun,4,30, USA      ,2021,8,10,21,56,male
+3,324," Bitterness, a bitter chill in the air, freezing moments into icicles of resentment that dangle precariously over the landscape of memory. ",Negative,10/15/2019 10:30,User319, Twitter ,#Tag319 #Fun,4,30, UK ,2019,10,15,10,44,female
+2,63, Enjoying a quiet evening with a book and some tea.      ,Negative,2/14/2023 19:45,User60, Facebook ,#Tag60 #Fun,4,50, Canada       ,2023,2,14,19,57,male
+8,232," Navigating through the labyrinth of thoughts, confusion a constant companion in the maze of ideas. ",Positive,5/2/2021 11:45,User227, Facebook ,#Tag227 #Fun,4,28, Australia    ,2021,5,2,11,23,non-binary
+7,317," Overwhelmed by the cacophony of expectations, a drowning soul in the tempest of pressure, struggling to stay afloat. ",Positive,11/29/2021 8:45,User312, Facebook ,#Tag312 #Fun,4,40, USA ,2021,11,29,8,39,female
+6,130, Hopeful about the possibilities of a new journey.      ,Negative,12/5/2013 16:00,User127, Twitter  ,#Tag127 #Fun,4,35, Canada    ,2013,12,5,16,52,female
+3,133, Tenderness in the warmth of a cozy winter evening.     ,Positive,2/10/2016 19:45,User130, Twitter  ,#Tag130 #Fun,4,50, UK       ,2016,2,10,19,54,female
+2,42, Planning a garden makeover for spring.             ,Negative,1/28/2023 14:45,User40, Twitter  ,#Tag40 #Fun,4,50, USA      ,2023,1,28,14,26,female
+1,459,"In the garden of broken dreams, petals fall, a silent testimony to shattered hopes. ",Negative,6/10/2018 13:30,User454, Twitter ,#Tag454 #Fun,5,40, UK ,2018,6,10,13,33,female
+6,510,"At the summit of Mount Fuji, a breathtaking sunrise that paints the sky with hues of accomplishment. ",Negative,4/15/2020 5:30,User505, Facebook ,#Tag505 #Fun,5,55, Japan ,2020,4,15,5,18,non-binary
+11,507,"Sailing the azure waters of the Maldives, each wave a whisper of serenity in paradise. ",Neutral,10/28/2019 14:15,User502, Facebook ,#Tag502 #Fun,5,45, Maldives ,2019,10,28,14,54,female
+5,452,"Tears, the ink staining the pages of a journal, a testament to silent grief. ",Neutral,1/28/2023 14:30,User447, Instagram ,#Tag447 #Fun,5,60, India ,2023,1,28,14,56,non-binary
+2,449,"The bitterness of betrayal, a taste that lingers, staining the palate of trust. ",Neutral,10/22/2019 17:00,User444, Instagram ,#Tag444 #Fun,5,30, Germany ,2019,10,22,17,62,female
+6,447,"In the labyrinth of grief, the walls echo with the footsteps of lost joy. ",Positive,12/5/2018 21:45,User442, Facebook ,#Tag442 #Fun,5,35, USA ,2018,12,5,21,42,male
+5,441,"Sorrowful echoes, a symphony of pain played by the strings of loss. ",Positive,5/22/2018 20:45,User436, Twitter  ,#Tag436 #Fun,5,35, Germany     ,2018,5,22,20,29,female
+1,455,"Suffocating in the silence of solitude, where echoes of laughter once thrived. ",Positive,5/20/2022 20:30,User450, Instagram ,#Tag450 #Fun,5,60, South Africa ,2022,5,20,20,46,non-binary
+2,738,Relishing a peaceful afternoon with a classic novel. Quiet moments are the best moments. #BookLover #PeacefulAfternoon ,Negative,12/26/2023 1:05,User733,Snapchat,#Tag733 #Fun,5,72, USA ,2018,34,85,82,64,female
+1,814,Organizing a movie marathon with friends. Popcorn and cinematic adventures await! ,Positive,12/26/2023 1:05,User809,YouTube,#Tag809 #Fun,5,7, India             ,2023,15,13,86,3,non-binary
+1,496,"Lost in the enchantment of Disneyland, each ride a journey into the realm of childhood fantasies. ",Positive,9/28/2022 15:45,User491, Instagram ,#Tag491 #Fun,5,60, USA ,2022,9,28,15,19,male
+52,69, Finding acceptance in the midst of life's challenges.   ,Positive,2/16/2023 18:20,User66, Facebook ,#Tag66 #Fun,5,30, Canada     ,2023,2,16,18,46,non-binary
+1,461,"Wandering in the maze of betrayal, the walls closing in with every wrong turn. ",Neutral,1/5/2021 16:20,User456, Instagram ,#Tag456 #Fun,5,30, Germany ,2021,1,5,16,39,non-binary
+5,225," Torn between opposing emotions, an ambivalence that colors my decisions with shades of uncertainty. ",Neutral,7/8/2022 11:30,User222, Facebook ,#Tag222 #Fun,5,30, Australia    ,2022,7,8,11,34,male
+18,70, Overflowing with adoration for my adorable pet! 🐾      ,Negative,2/17/2023 10:45,User67, Twitter  ,#Tag67 #Fun,5,45, UK        ,2023,2,17,10,35,non-binary
+4,463,"In the tapestry of despair, threads of hope unravel, leaving a portrait of sorrow. ",Neutral,8/28/2017 19:30,User458, Facebook ,#Tag458 #Fun,5,35, India ,2017,8,28,19,31,non-binary
+1,464,"Like a withered rose in the garden of love, petals fall, a silent surrender to time. ",Positive,2/10/2023 14:30,User459, Instagram ,#Tag459 #Fun,5,55, France ,2023,2,10,14,45,female
+8,484,"In the garden of friendships, each bloom a testament to the beauty of camaraderie. ",Negative,8/28/2018 16:00,User479, Instagram ,#Tag479 #Fun,5,60, South Africa ,2018,8,28,16,51,non-binary
+1,216," Embracing the flaws, finding acceptance in imperfection, a journey towards self-love. ",Negative,8/20/2021 16:20,User213, Facebook ,#Tag213 #Fun,5,30, Australia    ,2021,8,20,16,36,male
+7,521,"At a Michael Jackson tribute show, moonwalking through the hits, a celebration of the King of Pop. ",Neutral,1/15/2022 21:15,User516, Instagram ,#Tag516 #Fun,5,50, USA ,2022,1,15,21,19,non-binary
+58,68, A surprise gift from a friend made my day!              ,Positive,2/16/2023 14:45,User65, Instagram ,#Tag65 #Fun,5,50, USA          ,2023,2,16,14,21,male
+5,471,"Swept away by the river of regret, the currents of the past refusing to release. ",Negative,4/28/2017 16:20,User466, Instagram ,#Tag466 #Fun,5,35, UK ,2017,4,28,16,33,female
+2,466,"Nostalgia, a bittersweet dance in the moonlit ballroom of cherished memories. ",Negative,5/15/2019 21:30,User461, Twitter ,#Tag461 #Fun,5,35, Italy ,2019,5,15,21,64,non-binary
+57,702,Facing rejection from a dream college. Disheartened but determined to explore other paths. ,Positive,9/25/2023 20:45,User697, Facebook ,#Tag697 #Fun,5,37, UK,2021,9,25,20,58,non-binary
+22,75, Excitement building up for the upcoming vacation!       ,Negative,2/18/2023 18:45,User72, Facebook ,#Tag72 #Fun,5,45, Canada    ,2023,2,18,18,53,non-binary
+3,474,"The echoes of solitude, a silent conversation between a soul and its shadows. ",Positive,6/15/2016 22:30,User469, Instagram ,#Tag469 #Fun,5,60, Spain ,2016,6,15,22,38,female
+1,531,"At a U2 concert, the anthemic chords of 'With or Without You' create a timeless moment of connection. ",Negative,5/15/2016 19:30,User526, Instagram ,#Tag526 #Fun,5,50, Ireland ,2016,5,15,19,51,male
+7,189," Envy poisons my thoughts, coveting others' success.",Negative,3/20/2017 11:30,User186, Facebook ,#Tag186 #Fun,5,20, Canada        ,2017,3,20,11,25,non-binary
+45,99, Excitement building up for a surprise birthday party.   ,Positive,2/27/2023 18:45,User96, Facebook ,#Tag96 #Fun,5,45, Canada ,2023,2,27,18,26,non-binary
+2,666,Tried to impress my crush with a smooth conversation. Ended up spilling my drink. Smooth level: Nonexistent! ,Neutral,8/20/2023 17:00,User661, Twitter ,#Tag661 #Fun,5,60, Canada,2019,8,20,17,33,female
+1,147, Tenderness in a heartfelt message to a loved one.    ,Positive,12/25/2016 19:30,User144, Facebook ,#Tag144 #Fun,5,50, UK          ,2016,12,25,19,59,female
+1,594,"Discovered a new book series and spent the whole night reading. Who needs sleep, anyway? #BookwormLife #LateNightReading ",Positive,5/29/2023 23:30,User589, Twitter ,#Tag589 #Fun,5,60, UK,2017,5,29,23,31,female
+2,601,Spontaneously booked a weekend getaway. Adventure awaits! #TravelBug #WeekendEscape ,Negative,6/5/2023 10:00,User596, Instagram ,#Tag596 #Fun,5,35, UK,2017,6,5,10,28,non-binary
+6,610,Savoring the flavors of a home-cooked meal. Simple joys are the heart of happiness. #HomeCooking #SimpleJoys ,Positive,6/14/2023 19:30,User605, Instagram ,#Tag605 #Fun,5,50, USA,2018,6,14,19,24,non-binary
+13,614,"Reconnecting with old friends over a cup of tea. Friendship, the true essence of companionship. #OldFriends #Companionship ",Neutral,6/18/2023 11:30,User609, Twitter ,#Tag609 #Fun,5,55, UK,2017,6,18,11,59,male
+2,622,"Attended a lecture on history, always fascinated by the lessons from the past. Learning is a lifelong adventure. #HistoryLecture #SeniorLearning ",Positive,6/26/2023 14:00,User617, Instagram ,#Tag617 #Fun,5,60, UK,2018,6,26,14,36,non-binary
+2,128, Serenity found in the pages of a favorite book.        ,Negative,9/22/2011 19:30,User125, Instagram ,#Tag125 #Fun,5,45, UK          ,2011,9,22,19,39,non-binary
+2,655,Bonding with friends over the latest K-pop sensation. Fangirling at its finest! ,Negative,8/9/2023 22:30,User650, Facebook ,#Tag650 #Fun,5,40, USA,2017,8,9,22,45,male
+1,748,"Exploring the art of meditation, finding tranquility in the stillness of the mind. #MeditationJourney #TranquilMind ",Positive,12/26/2023 1:05,User743,Snapchat,#Tag743 #Fun,5,7, UK ,2023,88,53,32,33,non-binary
+2,634,"Hosted a picnic in the park, basking in the warmth of friendship and sunshine. Simple joys, timeless memories. #ParkPicnic #SeniorJoy ",Positive,7/8/2023 16:00,User629, Twitter ,#Tag629 #Fun,5,60, Canada,2017,7,8,16,48,female
+1,41, Excited about the upcoming gaming tournament.      ,Positive,1/28/2023 9:00,User39, Instagram ,#Tag39 #Fun,5,60,USA,2023,1,28,9,38,non-binary
+3,118, Empowered to make a difference in my community.        ,Positive,9/14/2014 8:30,User115, Twitter  ,#Tag115 #Fun,5,30, UK       ,2014,9,14,8,25,non-binary
+7,642,"Hosted a 'memory lane' evening with old friends, reminiscing about the adventures that shaped our lives. #MemoryLane #SeniorReminiscing ",Neutral,7/16/2023 14:00,User637, Instagram ,#Tag637 #Fun,5,60, USA,2017,7,16,14,56,non-binary
+13,117," Hopeful for a brighter tomorrow, despite challenges.  ",Negative,4/5/2013 19:30,User114, Facebook ,#Tag114 #Fun,5,45, USA      ,2013,4,5,19,26,non-binary
+2,649,"Joined the school debate team. Words are my weapons, and I'm ready for battle! ",Positive,8/3/2023 12:15,User644, Facebook ,#Tag644 #Fun,5,35, Canada,2019,8,3,12,25,male
+4,583,"As the waves crash against the shore, the surfer embraces the thrill of riding the ocean's energy, capturing the essence of freedom in each wave. ",Negative,7/20/2021 18:15,User578, Facebook ,#Tag578 #Fun,5,45, Brazil ,2021,7,20,18,52,male
+4,523,"In the mosh pit of a Metallica concert, the thunderous chords create a symphony of headbanging ecstasy. ",Neutral,3/20/2023 22:30,User518, Facebook ,#Tag518 #Fun,5,70, USA ,2023,3,20,22,40,non-binary
+5,582,"In the realm of fashion, the designer unveils a collection that tells a story, blending innovation and tradition on the runway of creativity. ",Positive,11/10/2015 21:00,User577, Instagram ,#Tag577 #Fun,5,55, Italy ,2015,11,10,21,22,non-binary
+2,575,"Underneath the city lights, the dancer expresses emotions through graceful movements, creating a mesmerizing performance under the night sky. ",Positive,6/15/2018 22:00,User570, Twitter ,#Tag570 #Fun,5,80, USA ,2018,6,15,22,24,male
+9,184," Frustration boils over, a volcanic eruption of emotions.",Positive,4/10/2017 14:45,User181, Twitter  ,#Tag181 #Fun,5,25, USA          ,2017,4,10,14,30,male
+6,241," Drifting through the day with an air of nonchalance, indifferent to the trivialities of life. ",Positive,2/22/2023 17:00,User236,Snapchat,#Tag236 #Fun,5,18, India         ,2023,2,22,17,20,female
+2,532,"Rocking out at a Guns N' Roses show, the iconic riffs of 'Sweet Child o' Mine' echoing in the night. ",Neutral,12/10/2018 22:30,User527, Twitter ,#Tag527 #Fun,5,45, USA ,2018,12,10,22,58,male
+22,681,Crafting intricate friendship bracelets for the whole squad. Friendship level: Expert weaver! ,Positive,9/4/2023 15:15,User676, Instagram ,#Tag676 #Fun,5,37, USA,2018,9,4,15,20,non-binary
+1,179," Drowning in despair, hope slipping through my fingers.",Positive,4/2/2016 20:20,User176, Instagram ,#Tag176 #Fun,5,20, USA          ,2016,4,2,20,42,male
+6,176, Envy eats away at me as I see others' prosperity.  ,Negative,11/7/2018 11:30,User173, Instagram ,#Tag173 #Fun,5,20, Canada        ,2018,11,7,11,47,male
+4,30, Reflecting on the importance of mental health.     ,Neutral,1/24/2023 11:30,User28, Twitter  ,#Tag28 #Fun,5,45, USA      ,2023,1,24,11,42,male
+7,31, New painting in progress! 🎨                       ,Neutral,1/24/2023 15:00,User29, Facebook ,#Tag29 #Fun,5,25, Canada ,2023,1,24,15,44,non-binary
+2,552,"Experiencing the thrill of a high-speed Formula 1 race, fans are on the edge of their seats as drivers compete for the championship. ",Positive,11/24/2019 19:45,User547, Twitter ,#Tag547 #Fun,5,55, Germany ,2019,11,24,19,41,male
+8,171, Frustration mounts as obstacles block my path.     ,Neutral,1/30/2017 16:10,User168, Facebook ,#Tag168 #Fun,5,20, USA          ,2017,1,30,16,45,non-binary
+3,557,"Facing a defeat in the championship, the boxer reflects on the challenges, vowing to return stronger and more determined in the next bout. ",Positive,9/18/2020 19:30,User552, Facebook ,#Tag552 #Fun,5,60, UK ,2020,9,18,19,30,non-binary
+2,169, Jealousy consumes me as I witness others' success. ,Negative,8/12/2020 11:30,User166, Twitter  ,#Tag166 #Fun,5,25, India        ,2020,8,12,11,62,non-binary
+3,783,Convinced the teacher to have class outdoors. Learning equations with a side of fresh air! ,Negative,12/26/2023 1:05,User778,Snapchat,#Tag778 #Fun,5,2, UK ,2017,2,1,1,5,female
+8,167," Overwhelmed by grief, missing a loved one dearly.  ",Positive,7/5/2022 15:45,User164, Instagram ,#Tag164 #Fun,5,15, Canada          ,2022,7,5,15,19,non-binary
+21,94, Overflowing adoration for a cute rescue puppy! 🐶       ,Negative,2/26/2023 10:45,User91, Twitter  ,#Tag91 #Fun,5,45, UK         ,2023,2,26,10,32,female
+4,163, Fulfillment in completing a challenging puzzle.      ,Negative,11/28/2019 18:20,User160, Twitter  ,#Tag160 #Fun,5,45, India    ,2019,11,28,18,49,female
+2,571,"Embracing the aroma of freshly baked bread, the home chef finds joy in the art of baking, creating delicious memories for loved ones. ",Neutral,4/10/2023 17:15,User566, Instagram ,#Tag566 #Fun,5,45, India ,2023,4,10,17,58,female
+1,150, Feeling a sense of fulfillment after helping others. ,Neutral,8/28/2011 18:45,User147, Facebook ,#Tag147 #Fun,5,45, Canada    ,2011,8,28,18,56,non-binary
+1,433,"Torn apart by grief, the echoes of loss reverberate through the soul. ",Neutral,6/28/2015 21:15,User428, Facebook ,#Tag428 #Fun,5,55, Italy         ,2015,6,28,21,34,male
+5,651,"Daydreaming about the upcoming prom. The dress, the dance – it's a fairytale in the making! ",Neutral,8/5/2023 19:45,User646, Twitter ,#Tag646 #Fun,5,60, Canada,2023,8,5,19,56,non-binary
+3,411,Heartfelt gratitude for the laughter shared during a family reunion. ,Positive,12/28/2017 19:15,User406, Facebook ,#Tag406 #Fun,5,45,India         ,2017,12,28,19,32,female
+47,716,Attending a school assembly to stay informed about upcoming events and announcements. Staying connected with school activities. ,Negative,10/9/2023 22:00,User711, Twitter ,#Tag711 #Fun,5,40, Canada,2015,10,9,22,35,male
+47,717,Exploring a new hobby of photography during free time. Capturing moments through a lens. ,Negative,10/10/2023 14:15,User712, Instagram ,#Tag712 #Fun,5,49, UK,2020,10,10,14,22,female
+1,49, Reflecting on the beauty of nature.                ,Positive,1/31/2023 10:45,User47, Facebook ,#Tag47 #Fun,5,30, Australia ,2023,1,31,10,43,female
+3,720,Volunteering at a local charity event to give back to the community. Contributing to social causes. ,Negative,10/13/2023 12:30,User715, Instagram ,#Tag715 #Fun,5,39, UK,2020,10,13,12,19,female
+29,712,Experimenting with a new recipe for a school bake sale. Baking adventures in the kitchen. ,Negative,10/5/2023 14:15,User707, Instagram ,#Tag707 #Fun,5,43, USA,2017,10,5,14,30,non-binary
+8,62, An amusing incident brightened up my day!               ,Neutral,2/14/2023 14:20,User59, Instagram ,#Tag59 #Fun,5,35, UK           ,2023,2,14,14,53,male
+1,287," Floating on clouds of inspiration, an artist painting the sky with strokes of creativity, creating a masterpiece of dreams. ",Neutral,12/8/2021 14:30,User282, Twitter ,#Tag282 #Fun,5,36, India ,2021,12,8,14,53,female
+5,12, Exploring the city's hidden gems.                  ,Positive,1/18/2023 14:50,User12, Facebook ,#Tag12 #Fun,5,25, UK       ,2023,1,18,14,53,non-binary
+2,288," Navigating the river of contentment, a serene boat cruise through the tranquil waters of inner peace and acceptance. ",Negative,4/27/2019 9:50,User283, Instagram ,#Tag283 #Fun,5,40, Canada ,2019,4,27,9,55,non-binary
+5,259," Playfully dancing in the rain of laughter, a whimsical spirit twirling in the puddles of joy and lightheartedness. ",Negative,7/8/2020 18:00,User254, Facebook ,#Tag254 #Fun,5,44, Canada ,2020,7,8,18,45,non-binary
+2,50, Cooking a special dinner for loved ones.           ,Positive,1/31/2023 19:00,User48, Instagram ,#Tag48 #Fun,5,40, USA       ,2023,1,31,19,19,non-binary
+4,337,Awe-struck by the breathtaking sunrise over the mountains.      ,Positive,4/3/2022 6:15,User332, Instagram ,#Tag332 #Fun,5,55, USA               ,2022,4,3,6,34,male
+5,347,Admiration for the intricate details of a handcrafted masterpiece. ,Neutral,8/20/2019 16:00,User342, Instagram ,#Tag342 #Fun,5,50, USA               ,2019,8,20,16,41,male
+9,11, Feeling a bit under the weather today.             ,Neutral,1/18/2023 10:30,User11, Twitter  ,#Tag11 #Fun,5,15, Canada   ,2023,1,18,10,41,non-binary
+25,852,Collaborating on a group project to promote teamwork and shared responsibilities. Group effort in action. ,Neutral,12/26/2023 1:05,User847,YouTube,#Tag847 #Fun,5,100, Portugal        ,2021,9,1,64,2,male
+4,3, Excited about the upcoming weekend getaway!        ,Neutral,1/15/2023 18:20,User3, Facebook ,#Tag3 #Fun,5,15, UK       ,2023,1,15,18,60,non-binary
+8,362,Nostalgic memories flood in while revisiting childhood favorites. ,Positive,1/28/2017 21:15,User357, Facebook ,#Tag357 #Fun,5,40, Australia          ,2017,1,28,21,20,male
+51,818,Trying out a new smoothie recipe for a healthy start to the week. Smoothie enthusiast: Level up! ,Neutral,12/26/2023 1:05,User813,YouTube,#Tag813 #Fun,5,62, India             ,2017,53,66,2,8,male
+1,329," Overwhelmed by the maze of expectations, a minotaur of pressure lurking in the labyrinth, waiting to devour the spirit of resilience. ",Neutral,2/22/2020 15:20,User324, Facebook ,#Tag324 #Fun,5,44, USA ,2020,2,22,15,50,female
+4,721,Collaborating on a group project to promote teamwork and shared responsibilities. Group effort in action. ,Negative,10/14/2023 17:30,User716, Facebook ,#Tag716 #Fun,5,35, USA,2017,10,14,17,27,female
+9,247," Embracing the beauty in imperfections, finding acceptance in the mosaic of life's unpredictable art. ",Neutral,6/15/2023 16:20,User242, Facebook ,#Tag242 #Fun,5,36, Australia    ,2023,6,15,16,36,female
+9,310," Frustrated fingers tapping on the keyboard, a symphony of annoyance composing an unsolvable puzzle of unmet expectations. ",Neutral,12/17/2020 9:20,User305, Instagram ,#Tag305 #Fun,5,24, India ,2020,12,17,9,25,female
+1,51, Feeling optimistic about the week ahead.           ,Positive,1/31/2023 16:20,User49, Twitter  ,#Tag49 #Fun,5,30, Canada   ,2023,1,31,16,37,female
+4,274," Navigating the river of contentment, a serene boat cruise through the tranquil waters of inner peace and acceptance. ",Neutral,4/27/2019 9:50,User269, Instagram ,#Tag269 #Fun,5,40, Canada ,2019,4,27,9,49,non-binary
+1,396,Immersed in the enchanting melodies of a street musician's violin. ,Positive,4/5/2019 17:30,User391, Twitter  ,#Tag391 #Fun,5,35, France           ,2019,4,5,17,31,female
+1,250," Fueled by curiosity, venturing into uncharted realms, a fearless explorer of the mysteries of the world. ",Negative,12/1/2022 9:15,User245, Facebook ,#Tag245 #Fun,5,44, India         ,2022,12,1,9,24,female
+8,374,Curiosity piqued by the mysteries of an ancient archaeological site.,Negative,11/8/2015 10:00,User369, Facebook ,#Tag369 #Fun,5,35, Australia          ,2015,11,8,10,43,female
+2,423,Marveling at the kaleidoscope of colors in a vibrant street market. ,Neutral,8/22/2015 15:00,User418, Instagram ,#Tag418 #Fun,5,45, Brazil          ,2015,8,22,15,49,non-binary
+2,323," Despair like a heavy fog, enveloping every thought, blurring the path ahead, a journey in the labyrinth of utter hopelessness. ",Neutral,2/28/2022 21:00,User318, Facebook ,#Tag318 #Fun,5,16, Canada ,2022,2,28,21,25,female
+7,399,Soaring like a free spirit on the winds of a coastal cliff.        ,Positive,2/28/2021 13:00,User394, Twitter  ,#Tag394 #Fun,5,60, Australia         ,2021,2,28,13,32,non-binary
+3,816,Building a time capsule to capture memories for the future. Time-traveling emotions! ,Neutral,12/26/2023 1:05,User811,YouTube,#Tag811 #Fun,5,2, Canada            ,2016,5,3,75,22,non-binary
+48,100, Witnessed an act of kindness that made my day.          ,Neutral,2/28/2023 11:30,User97, Twitter  ,#Tag97 #Fun,6,40, USA       ,2023,2,28,11,41,female
+54,832,Feeling a sense of emptiness after a close friend moves away. Farewells are always sad. ,Neutral,12/26/2023 1:05,User827,YouTube,#Tag827 #Fun,6,41, USA               ,2018,22,23,5,9,female
+3,600,Successfully cooked a gourmet meal for the family. Chef skills unlocked! #ChefMode #TeenChef ,Negative,6/4/2023 19:30,User595, Twitter ,#Tag595 #Fun,6,50, USA,2022,6,4,19,60,non-binary
+1,533,"In the crowd of an Ariana Grande concert, the high notes of 'Into You' create a euphoric symphony. ",Neutral,1/22/2023 20:00,User528, Facebook ,#Tag528 #Fun,6,70, USA ,2023,1,22,20,24,female
+2,535,"Captivated by the spellbinding plot twists, the audience applauds, experiencing a rollercoaster of emotions at the movie premiere. ",Neutral,10/12/2018 20:00,User530, Twitter ,#Tag530 #Fun,6,80, USA ,2018,10,12,20,62,female
+34,86, Amused by the antics of my pet—it's pure amusement!      ,Neutral,2/23/2023 14:20,User83, Instagram ,#Tag83 #Fun,6,35, UK           ,2023,2,23,14,35,female
+5,136, Fulfillment in completing a challenging workout routine.,Positive,6/28/2019 18:20,User133, Twitter  ,#Tag133 #Fun,6,45, India     ,2019,6,28,18,20,female
+5,389,Whispers of inspiration from the rustling leaves in a serene forest. ,Neutral,11/15/2016 11:45,User384, Facebook ,#Tag384 #Fun,6,55, Portugal        ,2016,11,15,11,53,male
+1,281," Whispering tales of inspiration to the stars, a storyteller crafting constellations from the threads of imagination. ",Negative,8/29/2020 20:45,User276, Facebook ,#Tag276 #Fun,6,28, UK ,2020,8,29,20,37,non-binary
+4,57, Heartbroken after hearing the news about a natural disaster. ,Positive,2/12/2023 14:45,User54, Facebook ,#Tag54 #Fun,6,50, India      ,2023,2,12,14,25,non-binary
+1,185," Boredom settles like dust, life feels mundane.     ",Positive,11/28/2016 19:00,User182, Instagram ,#Tag182 #Fun,6,15, Canada        ,2016,11,28,19,58,female
+5,605,"Spent the afternoon at a museum, pretending to be cultured. Art enthusiast in the making. #MuseumDay #TeenArtLover ",Negative,6/9/2023 14:00,User600, Facebook ,#Tag600 #Fun,6,40, USA,2016,6,9,14,26,male
+5,290," A free spirit soaring on the wings of dreams, leaving trails of independence in the azure sky of boundless possibilities. ",Neutral,6/10/2020 10:05,User285, Twitter ,#Tag285 #Fun,6,44, UK ,2020,6,10,10,37,female
+5,385,A burst of creativity in the quiet solitude of an artist's studio.  ,Negative,9/1/2015 16:00,User380, Twitter  ,#Tag380 #Fun,6,30, Italy           ,2015,9,1,16,42,male
+34,680,Attempting to impress the teacher with an elaborate science experiment. Science geek mode: Activated! ,Neutral,9/3/2023 22:00,User675, Twitter ,#Tag675 #Fun,6,44, UK,2021,9,3,22,18,male
+4,22, Productive day ticking off my to-do list.          ,Neutral,1/21/2023 16:45,User22, Instagram ,#Tag22 #Fun,6,60, USA ,2023,1,21,16,19,male
+3,157, Hopeful about the potential for personal growth.      ,Positive,10/5/2013 16:40,User154, Twitter  ,#Tag154 #Fun,6,35, UK       ,2013,10,5,16,62,male
+5,768,Hosted a photography exhibition featuring snapshots of a life well-lived. Every photo has a story to tell. #PhotographyExhibition #SeniorPhotographer ,Positive,12/26/2023 1:05,User763,Snapchat,#Tag763 #Fun,6,30, India ,2016,5,19,7,74,male
+13,723,Celebrating a friend's birthday with a surprise party. Joyful moments and laughter all around! ,Positive,10/16/2023 15:45,User718, Instagram ,#Tag718 #Fun,6,52, UK,2016,10,16,15,62,male
+8,358,Feeling blessed for the supportive community in times of need.    ,Neutral,9/10/2021 9:45,User353, Instagram ,#Tag353 #Fun,6,35, UK                ,2021,9,10,9,35,male
+2,568,"Exploring the vibrant street art of a cultural neighborhood, each mural tells a story, infusing the city with creativity and expression. ",Neutral,11/5/2017 21:15,User563, Instagram ,#Tag563 #Fun,6,45, Brazil ,2017,11,5,21,36,non-binary
+4,166, Suffering from despair after another setback.      ,Negative,3/10/2021 8:30,User163, Twitter  ,#Tag163 #Fun,6,10, USA          ,2021,3,10,8,45,male
+2,360,Anticipation for an upcoming adventure in an exotic destination.   ,Positive,7/25/2022 10:00,User355, Twitter  ,#Tag355 #Fun,6,80, India             ,2022,7,25,10,59,female
+7,588,Lost my headphones again. How do they vanish into thin air? #HeadphoneMystery #TeenLife ,Positive,5/23/2023 16:45,User583, Twitter ,#Tag583 #Fun,6,40, USA,2023,5,23,16,40,male
+4,589,Decided to study for exams but ended up making memes about studying instead. Procrastination level: Expert. #ProcrastinationNation #TeenConfessions ,Neutral,5/24/2023 13:15,User584, Instagram ,#Tag584 #Fun,6,50, Canada,2023,5,24,13,33,male
+2,361,Reflecting on personal growth achieved through life experiences.  ,Neutral,3/8/2019 18:30,User356, Instagram ,#Tag356 #Fun,6,70, USA               ,2019,3,8,18,48,female
+9,301," Drowning in the abyss of despair, a heart shattered into fragments, lost in the echoing silence of hopelessness. ",Negative,9/15/2021 16:00,User296, Instagram ,#Tag296 #Fun,6,16, Canada ,2021,9,15,16,33,non-binary
+2,365,Contentment in the midst of a family gathering filled with laughter. ,Positive,1/15/2023 19:00,User360, Facebook ,#Tag360 #Fun,6,50, Canada            ,2023,1,15,19,41,female
+6,556,"In the tennis tournament, a highly anticipated player experiences a setback, leaving fans in shock and questioning the unforeseen turn of events. ",Positive,7/10/2018 21:15,User551, Instagram ,#Tag551 #Fun,6,70, USA ,2018,7,10,21,29,male
+8,591,Survived a group project without any drama. Miracles do happen. #GroupProjectSuccess #TeenAchievements ,Negative,5/26/2023 14:20,User586, Twitter ,#Tag586 #Fun,6,55, UK,2016,5,26,14,62,female
+23,678,Practicing a stand-up comedy routine for the upcoming talent show. Comedy gig: In the making! ,Negative,9/1/2023 14:45,User673, Instagram ,#Tag673 #Fun,6,39, Canada,2022,9,1,14,32,male
+2,297," A compassionate rain, tears of empathy falling gently, nurturing the seeds of kindness in the garden of human connections. ",Neutral,7/1/2021 12:10,User292, Instagram ,#Tag292 #Fun,6,42, Canada ,2021,7,1,12,63,non-binary
+4,369,Wonderment at the beauty of a double rainbow after the rain.     ,Neutral,6/12/2017 18:20,User364, Twitter  ,#Tag364 #Fun,6,70, USA               ,2017,6,12,18,40,male
+1,296," Charting a course through the waves of hopeful anticipation, a sailor steering towards the shores of dreams yet unexplored. ",Positive,10/30/2022 11:40,User291, Twitter ,#Tag291 #Fun,6,34, Australia ,2022,10,30,11,35,non-binary
+3,787,Spent hours perfecting a chemistry experiment. Mixing potions like a wizard! ,Negative,12/26/2023 1:05,User782,Snapchat,#Tag782 #Fun,6,4, UK ,2021,7,20,30,46,male
+4,394,Awe-inspired by the grandeur of an ancient cathedral's intricate architecture. ,Neutral,8/18/2018 14:45,User389, Facebook ,#Tag389 #Fun,6,35, Czech Republic  ,2018,8,18,14,63,female
+2,174, Intimidation by the unknown future ahead.          ,Negative,12/3/2021 18:30,User171, Facebook ,#Tag171 #Fun,6,30, India        ,2021,12,3,18,61,male
+4,294," Playfully juggling responsibilities, a circus performer balancing the acts of work and joy, tossing laughter into the air. ",Positive,11/18/2019 15:15,User289, Instagram ,#Tag289 #Fun,6,50, USA ,2019,11,18,15,42,male
+1,144, Hopeful about the prospects of a new business venture.,Positive,12/8/2017 19:15,User141, Facebook ,#Tag141 #Fun,6,45, Canada    ,2017,12,8,19,32,female
+31,839,Missing out on a long-anticipated event due to unexpected circumstances. A day filled with sadness. ,Neutral,12/26/2023 1:05,User834,YouTube,#Tag834 #Fun,6,8, France           ,2023,1,2,74,62,male
+13,308," Jealousy, a green-eyed monster, lurking in the shadows, casting a dark cloud over the sunshine of others' success. ",Negative,8/30/2019 10:10,User303, Facebook ,#Tag303 #Fun,6,32, USA ,2019,8,30,10,38,male
+4,134, Arousal of excitement for an upcoming adventure.       ,Negative,4/30/2017 11:30,User131, Instagram ,#Tag131 #Fun,6,40, Australia ,2017,4,30,11,64,male
+2,132, Compassion towards those in need during the holidays.  ,Negative,12/22/2015 14:20,User129, Facebook ,#Tag129 #Fun,6,35, USA      ,2015,12,22,14,52,non-binary
+5,217," Determination burning like a wildfire, overcoming obstacles, turning dreams into reality. ",Negative,11/3/2019 13:45,User214, Twitter  ,#Tag214 #Fun,6,35, USA          ,2019,11,3,13,19,male
+2,406,Radiant joy akin to blossoming flowers on a sunlit spring morning. ,Neutral,5/5/2022 10:15,User401, Facebook ,#Tag401 #Fun,6,50, Netherlands     ,2022,5,5,10,42,non-binary
+2,629,"Started a community garden, growing not just plants but friendships too. Green thumbs unite! #CommunityGarden #SeniorGardener ",Negative,7/3/2023 12:45,User624, Twitter ,#Tag624 #Fun,6,55, Canada,2019,7,3,12,42,male
+1,656,Spent hours perfecting a chemistry experiment. Mixing potions like a wizard! ,Negative,8/10/2023 14:20,User651, Instagram ,#Tag651 #Fun,6,55, UK,2021,8,10,14,42,female
+2,735,Embarked on a DIY home decor project. Let's hope it turns out better than last time. #DIYAdventure #TeenHomeDecor ,Positive,12/26/2023 1:05,User730,Snapchat,#Tag730 #Fun,6,44, Australia ,2015,100,8,63,7,male
+4,262," Navigating the sea of hope, sailing towards the sunrise of possibilities, confident in the ship of positive anticipation. ",Negative,10/5/2023 7:30,User257, Facebook ,#Tag257 #Fun,6,24, USA ,2023,10,5,7,48,non-binary
+5,322," Dismissive gestures, a curtain drawn to shield the vulnerability, a stage where emotions take a backseat to the performance of indifference. ",Neutral,8/18/2018 14:40,User317, Instagram ,#Tag317 #Fun,6,24, Australia ,2018,8,18,14,62,male
+2,13," New year, new fitness goals! 💪                    ",Neutral,1/18/2023 18:00,User13, Instagram ,#Tag13 #Fun,6,55, USA        ,2023,1,18,18,57,female
+5,46, Exploring local art galleries this weekend.        ,Neutral,1/30/2023 11:30,User44, Facebook ,#Tag44 #Fun,6,30, USA      ,2023,1,30,11,42,male
+1,122, Enthusiastically diving into a new project.            ,Neutral,6/15/2018 16:00,User119, Instagram ,#Tag119 #Fun,6,30, USA  ,2018,6,15,16,40,male
+51,67, Disappointed with the service at a local restaurant.    ,Negative,2/16/2023 9:00,User64, Twitter  ,#Tag64 #Fun,6,35, India      ,2023,2,16,9,59,female
+43,709,Trying out a new study technique for upcoming exams. Exploring different learning strategies. ,Positive,10/2/2023 16:45,User704, Instagram ,#Tag704 #Fun,6,42, USA,2020,10,2,16,30,male
+2,215," A tapestry of conflicting feelings, weaving through uncertainty, caught in the threads of ambivalence. ",Neutral,1/5/2022 10:30,User212, Instagram ,#Tag212 #Fun,6,25, UK            ,2022,1,5,10,18,male
+2,454,"Avoiding the shards of shattered dreams, walking the tightrope of resilience. ",Positive,7/18/2020 15:15,User449, Twitter ,#Tag449 #Fun,6,70, Japan ,2020,7,18,15,39,non-binary
+1,639,"Attended a wine tasting event, savoring the richness of flavors that age like fine wine. Cheers to the golden years! #WineTasting #SeniorWineLover ",Positive,7/13/2023 20:00,User634, Instagram ,#Tag634 #Fun,6,70, UK,2018,7,13,20,27,female
+5,448,"A soul adrift in the sea of solitude, waves of loneliness crashing relentlessly. ",Neutral,6/28/2016 14:20,User443, Twitter ,#Tag443 #Fun,6,45, UK ,2016,6,28,14,57,non-binary
+2,445,"Shattered by the echoes of a shattered dream, fragments of hope scattered. ",Negative,9/10/2017 19:15,User440, Twitter ,#Tag440 #Fun,6,40, Australia ,2017,9,10,19,51,non-binary
+7,332," Frustrated attempts to untangle the knot of confusion, the threads of understanding slipping further into the labyrinth of miscommunication. ",Neutral,11/1/2020 12:30,User327, Facebook ,#Tag327 #Fun,6,28, India ,2020,11,1,12,50,female
+4,331," Devastated, a heart in ruins, the echoes of shattered dreams reverberating in the chambers, a requiem for what once was whole. ",Neutral,10/28/2022 11:15,User326, Instagram ,#Tag326 #Fun,6,50, Australia ,2022,10,28,11,64,male
+11,15, Reflecting on the past and looking ahead.          ,Positive,1/19/2023 13:20,User15, Facebook ,#Tag15 #Fun,6,40, USA      ,2023,1,19,13,20,male
+9,438,"Melancholy lingers, a bittersweet serenade in the quietude of solitude. ",Positive,3/12/2017 23:30,User433, Twitter ,#Tag433 #Fun,6,35, UK         ,2017,3,12,23,43,male
+1,647,"Survived a challenging physics exam. Equations, you won't defeat me! ",Positive,8/1/2023 13:30,User642, Instagram ,#Tag642 #Fun,6,40, USA,2018,8,1,13,37,female
+9,249," Immerse in the serenity of a moonlit night, where the quiet whispers of nature bring peace to the soul. ",Negative,5/12/2020 19:30,User244, Instagram ,#Tag244 #Fun,6,50, USA          ,2020,5,12,19,49,male
+2,652,Convinced the teacher to have class outdoors. Learning equations with a side of fresh air! ,Neutral,8/6/2023 14:00,User647, Facebook ,#Tag647 #Fun,6,55, USA,2018,8,6,14,18,male
+45,850,Attending a workshop on time management to enhance organizational skills. Striving for efficiency. ,Positive,12/26/2023 1:05,User845,YouTube,#Tag845 #Fun,6,85, South Africa    ,2016,1,14,2,7,non-binary
+56,708,Missing out on a long-anticipated event due to unexpected circumstances. A day filled with sadness. ,Negative,10/1/2023 14:15,User703,Snapchat,#Tag703 #Fun,6,39, UK,2018,10,1,14,37,female
+5,453,"In the wasteland of lost trust, the echoes of broken promises reverberate. ",Negative,12/12/2016 10:00,User448, Facebook ,#Tag448 #Fun,6,50, Italy ,2016,12,12,10,22,male
+1,214," Stumbling upon an old journal, nostalgia flooding in waves, carrying me to moments long gone. ",Negative,7/10/2018 15:45,User211, Twitter  ,#Tag211 #Fun,6,20, Canada        ,2018,7,10,15,50,non-binary
+3,630,"Hosted a family dinner, where laughter echoed louder than the clinking of utensils. Family, the heart of happiness. #FamilyDinner #SeniorHost ",Positive,7/4/2023 17:00,User625, Instagram ,#Tag625 #Fun,6,70, USA,2018,7,4,17,62,non-binary
+1,338,Navigating through the challenges with determination.          ,Positive,10/12/2023 10:30,User333, Twitter  ,#Tag333 #Fun,6,30, Canada            ,2023,10,12,10,61,female
+38,693,Received a not-so-great grade on a major project. Academic frustration setting in. ,Neutral,9/16/2023 17:30,User688, Facebook ,#Tag688 #Fun,6,38, UK,2022,9,16,17,45,non-binary
+8,500,"In the embrace of the Grand Canyon, nature's masterpiece, a moment to marvel at Earth's grandeur. ",Negative,6/15/2020 16:45,User495, Instagram ,#Tag495 #Fun,6,50, USA ,2020,6,15,16,37,non-binary
+8,38, Attending a live music concert tonight.            ,Positive,1/27/2023 20:00,User36, Instagram ,#Tag36 #Fun,6,35, USA ,2023,1,27,20,20,male
+63,696,Experiencing cyberbullying. Hateful messages online are disheartening. ,Neutral,9/19/2023 15:15,User691, Facebook ,#Tag691 #Fun,6,27, UK,2023,9,19,15,53,non-binary
+11,733,"Attending a surprise birthday party organized by friends. Surrounded by love, laughter, and good company! ",Neutral,6/22/2018 14:15,User728, Instagram ,#Tag728 #Fun,6,48, USA,2016,6,22,14,42,non-binary
+7,208," Serenity found in the stillness of nature, a tranquil retreat from the chaos of the modern world. ",Negative,7/3/2021 19:00,User205, Twitter  ,#Tag205 #Fun,6,25, Australia    ,2021,7,3,19,19,non-binary
+7,795,"Spent hours on a TikTok dance, only to realize I have two left feet. Dance fail: Unleashed! ",Neutral,12/26/2023 1:05,User790,YouTube,#Tag790 #Fun,6,9, India ,2016,7,4,4,1,non-binary
+1,650,"Started a photography club at school. Capturing moments, one snapshot at a time! ",Neutral,8/4/2023 16:30,User645, Instagram ,#Tag645 #Fun,6,45, USA,2021,8,4,16,58,non-binary
+1,270," Proudly scaling the peaks of achievement, a mountaineer conquering challenges and planting the flag of success. ",Positive,1/5/2020 8:45,User265, Twitter ,#Tag265 #Fun,6,46, USA ,2020,1,5,8,18,male
+51,98, Confusion reigns as I try to make sense of recent events.,Positive,2/27/2023 14:20,User95, Instagram ,#Tag95 #Fun,6,50, UK   ,2023,2,27,14,24,male
+4,483,"Draped in the warmth of kindness, a quilt of compassion stitched with love. ",Positive,5/5/2019 12:15,User478, Facebook ,#Tag478 #Fun,6,50, Brazil ,2019,5,5,12,53,female
+5,800,Hiding a snack stash in my backpack for emergency cravings. Snack ninja mode: Activated! ,Neutral,12/26/2023 1:05,User795,YouTube,#Tag795 #Fun,6,83, USA               ,2016,2,6,3,9,female
+1,210," Floating through the day with an air of indifference, detached from the mundane happenings around. ",Positive,3/22/2023 16:30,User207, Facebook ,#Tag207 #Fun,6,20, Canada        ,2023,3,22,16,45,female
+30,699,Dealing with unfounded rumors circulating about personal life. Rumors can be hurtful. ,Negative,9/22/2023 18:20,User694, Facebook ,#Tag694 #Fun,6,46, UK,2019,9,22,18,45,male
+4,586,Ran out of snacks during a movie marathon. Crisis level: Emergency! #MovieNightStruggles #TeenProblems ,Negative,5/21/2023 21:00,User581, Instagram ,#Tag581 #Fun,7,35, Canada,2023,5,21,21,38,female
+9,725,Attending a school talent show to support classmates. Applauding the diverse talents on display! ,Positive,10/18/2023 16:45,User720, Facebook ,#Tag720 #Fun,7,38, Canada,2015,10,18,16,50,non-binary
+3,662,Sneaking snacks into class like a pro. The art of snack-smuggling is a sacred skill! ,Neutral,8/16/2023 14:00,User657, Instagram ,#Tag657 #Fun,7,60, USA,2017,8,16,14,49,non-binary
+2,667,Mastered the art of creating paper airplanes during lecture. Paper planes: Soaring to new heights! ,Positive,8/21/2023 15:45,User662, Instagram ,#Tag662 #Fun,7,30, USA,2017,8,21,15,38,non-binary
+8,726,"Exploring a new hiking trail with friends over the weekend. Nature, laughter, and good vibes! ",Negative,10/19/2023 18:20,User721,Snapchat,#Tag721 #Fun,7,42, UK,2022,10,19,18,18,female
+7,145, Empowerment through mentoring and guiding others.    ,Positive,6/3/2014 8:20,User142, Twitter  ,#Tag142 #Fun,7,30, UK       ,2014,6,3,8,32,male
+4,36, Winter sports day at the local park.               ,Neutral,1/26/2023 14:20,User34, Twitter  ,#Tag34 #Fun,7,30, Canada   ,2023,1,26,14,64,non-binary
+2,661,Attempting to break the school record for the longest handstand. Wish me luck! ,Negative,8/15/2023 19:30,User656, Facebook ,#Tag656 #Fun,7,55, Canada,2021,8,15,19,62,male
+51,104, Excitement for a quiet evening with a good book.        ,Positive,3/1/2023 13:30,User101, Instagram ,#Tag101 #Fun,7,35, USA          ,2023,3,1,13,41,male
+4,752,"Embarking on a journey of writing a memoir, documenting a lifetime of experiences. Every story matters. #MemoirWriting #SeniorStories ",Positive,12/26/2023 1:05,User747,Snapchat,#Tag747 #Fun,7,97, USA ,2023,95,4,4,6,non-binary
+9,314," Loneliness, a silent companion in the night, the only echo in the chamber of solitude, a heart's solitary nocturne. ",Positive,9/19/2019 3:30,User309, Facebook ,#Tag309 #Fun,7,36, Australia ,2019,9,19,3,50,non-binary
+4,354,Contemplating life's mysteries under the starry night sky.         ,Positive,7/2/2016 23:30,User349, Twitter  ,#Tag349 #Fun,7,55, UK                ,2016,7,2,23,49,male
+5,741,Savoring the flavors of a home-cooked meal. Simple joys are the heart of happiness. #HomeCooking #SimpleJoys ,Negative,12/26/2023 1:05,User736,Snapchat,#Tag736 #Fun,7,10, Canada ,2017,75,2,11,3,female
+1,587,Spent an hour choosing the perfect filter for a selfie. The struggle for that Instagram aesthetic is real. #SelfieQueen #TeenVibes ,Neutral,5/22/2023 14:30,User582, Facebook ,#Tag582 #Fun,7,45, UK,2023,5,22,14,53,male
+2,607,Relishing a peaceful afternoon with a classic novel. Quiet moments are the best moments. #BookLover #PeacefulAfternoon ,Neutral,6/11/2023 15:30,User602, Instagram ,#Tag602 #Fun,7,70, USA,2022,6,11,15,61,male
+5,762,"Enrolled in a dance class for seniors, moving to the rhythm of life. Age is just a number on the dance floor. #DanceClass #SeniorDancer ",Negative,12/26/2023 1:05,User757,Snapchat,#Tag757 #Fun,7,50, India ,2016,45,5,1,51,female
+3,654,Trying to master the perfect kickflip on my skateboard. Skating into the weekend like a pro! ,Positive,8/8/2023 16:00,User649, Twitter ,#Tag649 #Fun,7,60, Canada,2020,8,8,16,30,non-binary
+2,598,Decided to learn a new instrument. Day one: Still trying to figure out how to hold it. #MusicNovice #LearningJourney ,Neutral,6/2/2023 14:30,User593, Instagram ,#Tag593 #Fun,7,55, UK,2019,6,2,14,40,female
+7,638,"Joined a seniors' cycling club, feeling the wind in my hair and the freedom of the open road. #CyclingClub #SeniorCyclist ",Positive,7/12/2023 13:45,User633, Facebook ,#Tag633 #Fun,7,50, USA,2021,7,12,13,44,non-binary
+2,761,"Hosted a family dinner, where laughter echoed louder than the clinking of utensils. Family, the heart of happiness. #FamilyDinner #SeniorHost ",Positive,12/26/2023 1:05,User756,Snapchat,#Tag756 #Fun,7,81, USA ,2019,2,8,3,31,non-binary
+8,754,"Rediscovered the joy of cooking traditional family recipes. The kitchen, a place of cherished memories. #FamilyRecipes #SeniorCooking ",Positive,12/26/2023 1:05,User749,Snapchat,#Tag749 #Fun,7,1, Australia ,2016,82,5,7,37,male
+5,742,Embarking on a journey of learning a new language. The mind stays young with every new word. #LanguageLearning #NeverTooLate ,Neutral,12/26/2023 1:05,User737,Snapchat,#Tag737 #Fun,7,6, India ,2020,2,8,63,63,male
+43,103, Reflecting on the beauty of diversity in our world.     ,Neutral,3/1/2023 10:45,User100, Twitter  ,#Tag100 #Fun,7,45, Australia ,2023,3,1,10,25,female
+2,319," Devastated by the revelation of betrayal, the trust shattered like fragile glass, leaving shards of pain in its wake. ",Positive,5/20/2022 14:50,User314, Instagram ,#Tag314 #Fun,7,50, Canada ,2022,5,20,14,47,non-binary
+2,149, Enthusiasm for a new artistic project in the works.  ,Positive,9/17/2020 16:30,User146, Instagram ,#Tag146 #Fun,7,30, USA       ,2020,9,17,16,49,female
+9,312," Dismissive glances, a fortress built with indifference, walls impenetrable to the pleas of understanding and recognition. ",Neutral,5/10/2018 14:00,User307, Twitter ,#Tag307 #Fun,7,28, UK ,2018,5,10,14,20,non-binary
+1,335," Shattered dreams lie on the floor like fragments of glass, a mosaic of disappointment crafted by the hands of frustration. ",Neutral,1/7/2022 11:10,User330, Twitter ,#Tag330 #Fun,7,30, Canada ,2022,1,7,11,21,female
+2,343,Excitement builds as the countdown to a long-awaited vacation begins. ,Neutral,1/10/2023 12:00,User338, Instagram ,#Tag338 #Fun,7,60, France            ,2023,1,10,12,23,female
+7,623,"Rediscovered the joy of cooking traditional family recipes. The kitchen, a place of cherished memories. #FamilyRecipes #SeniorCooking ",Negative,6/27/2023 17:45,User618, Twitter ,#Tag618 #Fun,7,40, USA,2016,6,27,17,25,non-binary
+3,608,"Reflecting on a lifetime of memories, each wrinkle tells a story. Embracing the beauty of aging. #LifeReflections #BeautyInAging ",Positive,6/12/2023 18:00,User603, Twitter ,#Tag603 #Fun,7,55, UK,2017,6,12,18,34,female
+4,140, The euphoria of a surprise birthday celebration.     ,Positive,11/5/2018 21:45,User137, Instagram ,#Tag137 #Fun,7,30, UK   ,2018,11,5,21,31,non-binary
+6,430,"Aching heart, the symphony of pain plays in the silence of solitude. ",Negative,3/20/2022 19:30,User425, Facebook ,#Tag425 #Fun,7,50, Brazil          ,2022,3,20,19,59,male
+4,577,"As the first snowflake descends, the winter enthusiast eagerly prepares for a season of frosty delights, anticipating the magic of snow-covered landscapes. ",Neutral,12/1/2022 17:45,User572, Facebook ,#Tag572 #Fun,7,60, Canada ,2022,12,1,17,31,male
+5,578,"Amidst the pages of a captivating mystery novel, the reader unravels clues and secrets, experiencing a thrilling journey of suspense and revelation. ",Negative,4/10/2017 21:15,User573, Twitter ,#Tag573 #Fun,7,45, UK ,2017,4,10,21,48,male
+1,10, Just published a new blog post. Check it out!      ,Negative,1/17/2023 15:15,User10, Instagram ,#Tag10 #Fun,7,45,USA,2023,1,17,15,28,female
+13,497,"Exploring the wonders of Ferrari World, the roar of engines creating a symphony of speed. ",Positive,11/10/2019 14:00,User492, Facebook ,#Tag492 #Fun,7,45, Italy ,2019,11,10,14,45,non-binary
+4,271," Embraced by the hopeful dawn, a gardener sowing seeds of optimism, tending to the blooms of a brighter tomorrow. ",Neutral,7/17/2022 6:15,User266, Instagram ,#Tag266 #Fun,7,28, UK ,2022,7,17,6,29,male
+4,209," Curiosity leading me down the rabbit hole of knowledge, a perpetual student in life's classroom. ",Negative,10/8/2022 8:15,User206, Instagram ,#Tag206 #Fun,7,40, USA          ,2022,10,8,8,19,female
+55,829,Missing an important event due to unforeseen circumstances. A day filled with sadness. ,Neutral,12/26/2023 1:05,User824,YouTube,#Tag824 #Fun,7,99, India             ,2019,80,5,62,89,female
+1,213," Melancholy whispers in the breeze, a silent conversation with the echoes of forgotten dreams. ",Positive,3/1/2020 19:00,User210, Facebook ,#Tag210 #Fun,7,25, India         ,2020,3,1,19,49,male
+21,700,Got a flat tire on the way to an important meeting. Talk about a series of bad events! ,Negative,9/23/2023 14:15,User695,Snapchat,#Tag695 #Fun,7,50, USA,2020,9,23,14,45,female
+1,266," In the embrace of the autumn breeze, leaves of ambivalence dancing in a waltz between choices and uncertainties. ",Positive,9/14/2019 10:20,User261, Facebook ,#Tag261 #Fun,7,28, UK ,2019,9,14,10,24,non-binary
+5,473,"In the gallery of broken promises, each shattered vow framed, a painful exhibition. ",Positive,1/28/2022 13:45,User468, Facebook ,#Tag468 #Fun,7,30, Brazil ,2022,1,28,13,43,male
+2,17, Late-night gaming session with friends.            ,Negative,1/20/2023 0:05,User17, Twitter  ,#Tag17 #Fun,7,35, UK       ,2023,1,20,72,19,female
+5,408,Rejuvenated by the salty breeze and the sound of waves at the seaside. ,Positive,9/20/2021 14:30,User403, Twitter  ,#Tag403 #Fun,7,35, Spain           ,2021,9,20,14,39,non-binary
+5,263," Striding with confidence, footprints of self-assuredness imprinted on the sands of challenges conquered and victories claimed. ",Neutral,2/15/2022 13:15,User258, Instagram ,#Tag258 #Fun,7,50, Australia ,2022,2,15,13,47,female
+6,258," Compassionate clouds, heavy with care, showering empathy on the parched grounds of human suffering. ",Positive,6/20/2022 10:30,User253, Twitter ,#Tag253 #Fun,7,36, Australia ,2022,6,20,10,28,non-binary
+23,823,Witnessed a heated argument in the cafeteria. Unpleasant atmosphere at lunch. ,Negative,12/26/2023 1:05,User818,YouTube,#Tag818 #Fun,7,8, India             ,2019,1,48,3,17,female
+3,419,"Lost in the pages of a captivating novel, transported to another world. ",Neutral,9/28/2019 19:45,User414, Twitter  ,#Tag414 #Fun,7,40, UK              ,2019,9,28,19,56,female
+7,458,"Sinking like autumn leaves in the river of sorrow, carried away by the current. ",Neutral,9/15/2020 18:15,User453, Instagram ,#Tag453 #Fun,7,45, Canada ,2020,9,15,18,43,male
+5,456,"Haunted by the specter of lost possibilities, a ghost that refuses to fade away. ",Positive,11/8/2019 14:45,User451, Twitter ,#Tag451 #Fun,7,35, Spain ,2019,11,8,14,20,male
+2,65, Sending affectionate vibes to all my followers!          ,Negative,2/15/2023 16:00,User62, Instagram ,#Tag62 #Fun,7,30,USA,2023,2,15,16,19,non-binary
+3,450,"In the ruins of hope, echoes of shattered dreams whisper tales of loss. ",Neutral,3/15/2021 22:45,User445, Facebook ,#Tag445 #Fun,7,55, Brazil ,2021,3,15,22,18,female
+5,252," Dancing through life with the exuberance of a carefree spirit, embracing joy and zest at every turn. ",Neutral,7/12/2018 17:45,User247, Twitter ,#Tag247 #Fun,7,30, USA ,2018,7,12,17,50,female
+2,446,"Avoiding the thorns of regret, walking barefoot on the path of remorse. ",Positive,4/18/2022 11:30,User441, Instagram ,#Tag441 #Fun,7,50, Canada ,2022,4,18,11,49,female
+11,444,"Heart in ruins, the remnants of shattered dreams scattered in the wind. ",Positive,1/8/2022 11:30,User439, Twitter  ,#Tag439 #Fun,7,40, Brazil     ,2022,1,8,11,64,non-binary
+1,233," An impenetrable numbness shields me from the emotional storms, a fortress of stoic resilience. ",Neutral,10/18/2019 14:30,User228, Twitter  ,#Tag228 #Fun,7,22, UK            ,2019,10,18,14,39,female
+1,439,"Bitterness like a poison, seeping into every crevice of the wounded heart. ",Positive,12/15/2015 16:15,User434, Facebook ,#Tag434 #Fun,7,50, Australia   ,2015,12,15,16,40,male
+2,426,Numbness sets in as the weight of loneliness grows heavier.       ,Neutral,2/12/2021 16:45,User421, Twitter  ,#Tag421 #Fun,7,35, Canada          ,2021,2,12,16,52,non-binary
+2,239," Seeking serenity in the melody of raindrops, a tranquil escape from the noise of everyday life. ",Neutral,4/12/2020 19:30,User234,Snapchat,#Tag234 #Fun,7,50, Canada        ,2020,4,12,19,33,female
+13,434,"Isolation deepens, an emotional winter where warmth is but a distant memory. ",Neutral,4/2/2020 14:20,User429, Instagram ,#Tag429 #Fun,7,70, Japan       ,2020,4,2,14,36,male
+3,246," Ambivalence in the air, caught between the crossroads of conflicting emotions and decisions. ",Negative,8/5/2022 11:30,User241, Instagram ,#Tag241 #Fun,7,30, Canada        ,2022,8,5,11,20,female
+5,504,"At the summit of Machu Picchu, a breathtaking panorama that whispers the secrets of ancient civilizations. ",Positive,11/5/2017 22:00,User499, Facebook ,#Tag499 #Fun,7,55, Peru ,2017,11,5,22,50,female
+2,200," Lost in the vast sea of information, an indifferent wave in the digital ocean. ",Negative,11/28/2022 17:30,User197, Instagram ,#Tag197 #Fun,7,15, Canada          ,2022,11,28,17,41,male
+1,201," The complex puzzle of life leaves me in a state of perpetual confusion, seeking answers in the chaos. ",Positive,4/2/2020 9:45,User198, Facebook ,#Tag198 #Fun,7,20, UK           ,2020,4,2,9,58,non-binary
+2,509,"Walking the Great Wall of China, each step a testament to ancient engineering marvels. ",Positive,8/18/2017 19:30,User504, Twitter ,#Tag504 #Fun,7,35, China ,2017,8,18,19,20,female
+4,357,Satisfaction derived from successfully completing a DIY project.  ,Positive,12/1/2015 11:30,User352, Twitter  ,#Tag352 #Fun,7,50, USA               ,2015,12,1,11,20,non-binary
+57,96, Bitter experience at the customer service department.   ,Negative,2/26/2023 15:00,User93, Facebook ,#Tag93 #Fun,7,35, USA       ,2023,2,26,15,18,female
+18,91, Disappointed with the lack of progress in a personal project. ,Positive,2/25/2023 9:00,User88, Twitter  ,#Tag88 #Fun,7,35, India      ,2023,2,25,9,62,non-binary
+9,562,"Despite meticulous training, the swimmer faces disappointment as a split-second miscalculation costs them the lead in a crucial race. ",Neutral,6/28/2015 20:00,User557, Instagram ,#Tag557 #Fun,7,55, Australia ,2015,6,28,20,47,non-binary
+3,305," Eyes wide open in the night, fearful shadows dancing on the walls, the mind a prisoner of imagined horrors. ",Neutral,5/12/2022 2:00,User300, Facebook ,#Tag300 #Fun,7,36, India ,2022,5,12,2,21,non-binary
+8,299," Embraced by the hopeful dawn, a gardener sowing seeds of optimism, tending to the blooms of a brighter tomorrow. ",Positive,7/17/2022 6:15,User294, Instagram ,#Tag294 #Fun,7,28, India ,2022,7,17,6,19,non-binary
+9,173," Anxiety grips my heart, worry clouds my thoughts.  ",Positive,4/15/2019 9:00,User170, Instagram ,#Tag170 #Fun,7,25, UK           ,2019,4,15,9,61,non-binary
+2,550,"Cheering for the underdog in the basketball finals, the crowd erupts in applause as the team defies odds to claim the championship title. ",Positive,6/20/2022 21:00,User545, Facebook ,#Tag545 #Fun,7,35, USA ,2022,6,20,21,56,male
+13,371,Pride in achieving a personal milestone in career progression.   ,Negative,4/15/2016 14:50,User366, Facebook ,#Tag366 #Fun,7,55, UK                ,2016,4,15,14,44,female
+3,177, Regret over missed opportunities haunts my thoughts.,Positive,8/25/2017 16:00,User174, Facebook ,#Tag174 #Fun,7,25, UK           ,2017,8,25,16,28,female
+4,178, Disgust at the sight of injustice and cruelty.     ,Negative,2/11/2019 9:45,User175, Twitter  ,#Tag175 #Fun,7,15, India        ,2019,2,11,9,45,male
+5,199," Embarking on a journey of discovery, fueled by curiosity and a thirst for knowledge. ",Negative,4/15/2023 10:15,User196, Twitter  ,#Tag196 #Fun,7,30, USA          ,2023,4,15,10,49,female
+31,88, Admiring the dedication of volunteers at a local charity. ,Positive,2/24/2023 11:30,User85, Twitter  ,#Tag85 #Fun,7,40, USA        ,2023,2,24,11,41,male
+4,514,"Cruising the fjords of Norway, each icy landscape a breathtaking masterpiece of nature's grandeur. ",Neutral,5/28/2018 18:30,User509, Instagram ,#Tag509 #Fun,7,45, Norway ,2018,5,28,18,60,non-binary
+3,739,"Reflecting on a lifetime of memories, each wrinkle tells a story. Embracing the beauty of aging. #LifeReflections #BeautyInAging ",Neutral,12/26/2023 1:05,User734,Snapchat,#Tag734 #Fun,7,2, UK ,2019,4,40,59,8,male
+54,82, The state of corruption in our society is utterly disgusting. ,Negative,2/21/2023 18:20,User79, Twitter  ,#Tag79 #Fun,7,35, UK         ,2023,2,21,18,57,female
+2,283," A compassionate rain, tears of empathy falling gently, nurturing the seeds of kindness in the garden of human connections. ",Neutral,7/1/2021 12:10,User278, Instagram ,#Tag278 #Fun,7,42, Canada ,2021,7,1,12,50,non-binary
+3,21, Exploring the world of virtual reality.            ,Positive,1/21/2023 13:20,User21, Facebook ,#Tag21 #Fun,7,30,USA,2023,1,21,13,55,non-binary
+54,687,Trying out a new smoothie recipe for a healthy start to the week. Smoothie enthusiast: Level up! ,Neutral,9/10/2023 20:45,User682,Snapchat,#Tag682 #Fun,7,42, UK,2016,9,10,20,49,male
+8,8, Political discussions heating up on the timeline.  ,Positive,1/17/2023 8:00,User8, Twitter  ,#Tag8 #Fun,7,60, USA      ,2023,1,17,8,40,non-binary
+8,528,"Drenched in confetti at a Katy Perry concert, a kaleidoscope of colors igniting the night sky. ",Positive,6/22/2020 22:00,User523, Instagram ,#Tag523 #Fun,7,45, USA ,2020,6,22,22,43,male
+20,685,Building a time capsule to capture memories for the future. Time-traveling emotions! ,Negative,9/8/2023 14:15,User680, Facebook ,#Tag680 #Fun,7,48, Canada,2019,9,8,14,29,non-binary
+36,85, Sending love to all my followers on this beautiful day! ❤️ ,Negative,2/23/2023 8:30,User82, Twitter  ,#Tag82 #Fun,7,30, Australia  ,2023,2,23,8,62,male
+45,679,Accidentally sent a love letter to the wrong person. Love note fail: Maximum embarrassment! ,Neutral,9/2/2023 18:30,User674, Facebook ,#Tag674 #Fun,8,33, USA,2019,9,2,18,48,female
+61,108, Excitement for a weekend road trip to explore new places. ,Negative,3/2/2023 16:45,User105, Twitter  ,#Tag105 #Fun,8,50, India     ,2023,3,2,16,52,non-binary
+1,665,Accidentally liked my crush's old photo while stalking their profile. Awkward level: Maximum! ,Positive,8/19/2023 19:45,User660, Instagram ,#Tag660 #Fun,8,45, UK,2023,8,19,19,38,non-binary
+27,83, Overflowing happiness: welcoming a new family member!  ,Neutral,2/22/2023 10:00,User80, Instagram ,#Tag80 #Fun,8,60, UK           ,2023,2,22,10,38,non-binary
+22,77, Pride in achieving a personal milestone.               ,Negative,2/19/2023 16:00,User74, Instagram ,#Tag74 #Fun,8,60, Australia    ,2023,2,19,16,48,female
+1,43, Celebrating a friend's birthday tonight! 🎂       ,Positive,1/28/2023 19:30,User41, Facebook ,#Tag41 #Fun,8,30, UK ,2023,1,28,19,56,female
+62,92, A surprise visit from an old friend brought tears of joy. ,Positive,2/25/2023 14:45,User89, Instagram ,#Tag89 #Fun,8,50, USA          ,2023,2,25,14,58,non-binary
+2,55, Can't believe the injustice happening in our society.,Neutral,2/11/2023 9:30,User52, Twitter  ,#Tag52 #Fun,8,40, Canada     ,2023,2,11,9,24,female
+49,97, Finding calmness amidst the chaos of daily life.        ,Negative,2/27/2023 9:30,User94, Twitter  ,#Tag94 #Fun,8,30, India     ,2023,2,27,9,42,female
+5,653,"Accidentally spilled paint in art class. Abstract art, right? #ArtClassAdventures #HighSchoolArtist ",Neutral,8/7/2023 19:45,User648, Instagram ,#Tag648 #Fun,8,45, UK,2016,8,7,19,20,male
+3,56, Feeling a sense of fear after watching a thriller movie. ,Negative,2/11/2023 21:15,User53, Instagram ,#Tag53 #Fun,8,30, USA          ,2023,2,11,21,61,male
+2,671,Danced in the rain to celebrate the end of exams. Rain dance: Unexpectedly refreshing! ,Neutral,8/25/2023 14:15,User666, Facebook ,#Tag666 #Fun,8,50, Canada,2021,8,25,14,52,female
+9,670,Planning a surprise scavenger hunt for friends. Anticipating the thrill and excitement! ,Positive,8/24/2023 18:20,User665, Instagram ,#Tag665 #Fun,8,38, UK,2019,8,24,18,53,female
+22,109, Kindness witnessed today restores my faith in humanity.  ,Neutral,3/3/2023 11:30,User106, Facebook ,#Tag106 #Fun,8,45, USA       ,2023,3,3,11,52,male
+4,325," Loneliness, a solitary moon in a starless sky, casting a cold glow on the landscape of isolation, where echoes bounce in empty spaces. ",Positive,12/1/2017 18:50,User320, Instagram ,#Tag320 #Fun,8,36, USA ,2017,12,1,18,44,male
+2,646,"Participated in a charity run, proving that age is no barrier to supporting meaningful causes. #CharityRun #SeniorRunner ",Neutral,7/20/2023 17:00,User641, Twitter ,#Tag641 #Fun,8,60, Canada,2019,7,20,17,45,male
+5,511,"Exploring the ancient ruins of Angkor Wat, each stone whispering stories of Khmer civilization. ",Neutral,11/22/2016 13:00,User506, Instagram ,#Tag506 #Fun,8,40, Cambodia ,2016,11,22,13,50,male
+47,111, Shame for not being true to my values in a difficult situation.,Neutral,3/3/2023 12:00,User108, Twitter  ,#Tag108 #Fun,8,30, UK        ,2023,3,3,12,22,male
+5,202," A numbness settles over me, a shield against the overwhelming emotions life throws my way. ",Negative,8/10/2021 14:00,User199, Twitter  ,#Tag199 #Fun,8,15, India        ,2021,8,10,14,29,female
+9,501,"Journeying through the serenity of Santorini, where each sunset paints the sky with hues of tranquility. ",Negative,9/10/2016 19:15,User496, Facebook ,#Tag496 #Fun,8,45, Greece ,2016,9,10,19,41,male
+9,499,"Wandering through the historical streets of Kyoto, each step a journey into the heart of Japan's traditions. ",Negative,8/22/2017 21:30,User494, Twitter ,#Tag494 #Fun,8,35, Japan ,2017,8,22,21,44,non-binary
+7,204," Revisiting old photographs, caught in the embrace of nostalgia's bittersweet symphony. ",Neutral,2/5/2018 15:15,User201, Facebook ,#Tag201 #Fun,8,20, USA          ,2018,2,5,15,19,male
+4,495,"Standing before the grandeur of the Eiffel Tower, a moment to reflect on the beauty of Parisian dreams. ",Negative,5/12/2018 17:30,User490, Twitter ,#Tag490 #Fun,8,55, France ,2018,5,12,17,33,non-binary
+8,488,"A surprise gift, wrapped in anticipation, unfolds a moment of delight and wonder. ",Negative,2/5/2023 19:30,User483, Twitter ,#Tag483 #Fun,8,50, Australia ,2023,2,5,19,49,male
+2,212," Numb to the chaos, emotions locked away, a stoic facade concealing the inner turmoil. ",Negative,12/28/2019 14:30,User209, Instagram ,#Tag209 #Fun,8,15, Australia     ,2019,12,28,14,54,male
+5,479,"Serenading the stars with a heart full of gratitude, a melody of thankfulness. ",Neutral,12/22/2017 21:00,User474, Twitter ,#Tag474 #Fun,8,45, India ,2017,12,22,21,54,male
+2,16, Just adopted a cute furry friend! 🐾              ,Negative,1/19/2023 17:10,User16, Instagram ,#Tag16 #Fun,8,30, Canada    ,2023,1,19,17,39,male
+3,220," Drifting through the day with a nonchalant demeanor, embracing the art of indifference. ",Positive,2/10/2023 17:00,User217, Twitter  ,#Tag217 #Fun,8,18, UK            ,2023,2,10,17,49,non-binary
+1,222," Immersed in a state of emotional numbness, a shield against the storm of daily struggles. ",Positive,12/1/2021 15:30,User219, Facebook ,#Tag219 #Fun,8,20, USA          ,2021,12,1,15,49,male
+2,223," A melancholic symphony playing in the background, the soundtrack of a wistful heart. ",Positive,3/25/2019 21:00,User220, Twitter  ,#Tag220 #Fun,8,26, Canada        ,2019,3,25,21,21,non-binary
+4,457,"In the labyrinth of despair, the echoes of a broken heart reverberate endlessly. ",Positive,3/28/2017 22:00,User452, Facebook ,#Tag452 #Fun,8,55, Australia ,2017,3,28,22,29,male
+3,228," Basking in the serenity of a quiet forest, where the whispers of nature bring peace to the soul. ",Positive,2/28/2020 18:30,User225, Facebook ,#Tag225 #Fun,8,50, USA          ,2020,2,28,18,22,non-binary
+3,431,"Emotional storm, a whirlwind of sadness engulfs every thought.    ",Negative,7/18/2017 17:45,User426, Instagram ,#Tag426 #Fun,8,60, India          ,2017,7,18,17,47,female
+4,334," Dismissive gestures, a curtain drawn to shield the vulnerability, a stage where emotions take a backseat to the performance of indifference. ",Positive,8/18/2018 14:00,User329, Instagram ,#Tag329 #Fun,8,24, Australia ,2018,8,18,14,36,non-binary
+6,321," Envious gazes cast upon the podium of success, a bitter pill swallowed, the taste lingering as a constant reminder of unattained heights. ",Positive,2/10/2021 19:30,User316, Twitter ,#Tag316 #Fun,8,40, USA ,2021,2,10,19,55,male
+2,316," Bitterness, a bitter aftertaste lingering on the tongue, each word a reminder of wounds that refuse to heal with the passing of time. ",Negative,4/5/2020 16:20,User311, Instagram ,#Tag311 #Fun,8,20, India ,2020,4,5,16,39,non-binary
+3,2, Just finished an amazing workout! 💪               ,Positive,1/15/2023 15:45,User2, Instagram ,#Tag2 #Fun,8,40, USA        ,2023,1,15,15,32,male
+1,307," Overwhelmed by the weight of the world, Atlas with trembling shoulders, each responsibility a boulder in the landscape of exhaustion. ",Negative,6/25/2021 17:50,User302, Instagram ,#Tag302 #Fun,8,44, Canada ,2021,6,25,17,31,non-binary
+3,368,A sense of accomplishment after completing a challenging workout.,Negative,6/30/2022 7:00,User363, Facebook ,#Tag363 #Fun,8,45, Australia          ,2022,6,30,7,39,male
+2,512,"Skiing down the slopes of the Swiss Alps, each turn a dance with the majesty of snow-capped peaks. ",Positive,1/10/2019 14:45,User507, Twitter ,#Tag507 #Fun,8,45, Switzerland ,2019,1,10,14,57,female
+4,291," Bathed in the golden hues of gratefulness, a sunset of appreciation casting its warm glow on the landscapes of the heart. ",Negative,4/1/2022 18:30,User286, Instagram ,#Tag286 #Fun,8,38, Australia ,2022,4,1,18,52,non-binary
+3,6, Rainy days call for cozy blankets and hot cocoa.   ,Neutral,1/16/2023 14:45,User6, Facebook ,#Tag6 #Fun,8,20, Canada   ,2023,1,16,14,56,male
+1,279," Hopeful whispers of wind, carrying the promises of a brighter tomorrow, a symphony of optimism in the air of possibilities. ",Neutral,5/6/2023 7:20,User274, Twitter ,#Tag274 #Fun,8,30, India ,2023,5,6,7,33,female
+7,273," Floating on clouds of inspiration, an artist painting the sky with strokes of creativity, creating a masterpiece of dreams. ",Neutral,12/8/2021 14:30,User268, Twitter ,#Tag268 #Fun,8,36, India ,2021,12,8,14,54,non-binary
+1,398,Exploring the universe within during a mindful meditation session. ,Neutral,10/20/2017 8:15,User393, Instagram ,#Tag393 #Fun,8,70, Canada           ,2017,10,20,8,40,male
+5,267," Gratitude as a guiding star, navigating the constellation of blessings in the vast universe of life's precious moments. ",Positive,3/12/2022 19:55,User262, Twitter ,#Tag262 #Fun,8,38, Australia ,2022,3,12,19,33,non-binary
+4,417,Contentment envelops as the aroma of freshly baked bread fills the air. ,Neutral,6/10/2017 12:15,User412, Instagram ,#Tag412 #Fun,8,55, France          ,2017,6,10,12,61,male
+1,289," With empathy as a lantern, wandering through the dark alleys of sorrow, illuminating the path with compassion and care. ",Positive,9/3/2023 21:40,User284, Facebook ,#Tag284 #Fun,8,32, USA ,2023,9,3,21,57,female
+2,517,"In the crowd of a Taylor Swift concert, the lyrics of 'Love Story' create an enchanting fairy tale. ",Negative,5/10/2021 19:45,User512, Facebook ,#Tag512 #Fun,8,60, USA ,2021,5,10,19,30,non-binary
+2,505,"In the heart of New York City, Times Square dazzles with lights, a vibrant spectacle of urban energy. ",Neutral,7/20/2022 21:45,User500, Instagram ,#Tag500 #Fun,8,70, USA ,2022,7,20,21,50,non-binary
+5,730,Participating in a school-wide art exhibition. Witnessing creativity and spreading positive vibes! ,Negative,11/10/2015 16:45,User725, Instagram ,#Tag725 #Fun,8,44, USA,2022,11,10,16,28,male
+4,612,"Attended a classical music concert, feeling the timeless melodies resonate. Music transcends generations. #ClassicalMusic #TimelessMelodies ",Positive,6/16/2023 21:45,User607, Facebook ,#Tag607 #Fun,8,35, Canada,2019,6,16,21,30,male
+1,756,"Attended a jazz concert and swayed to the rhythm of timeless tunes. Music, a constant companion in the golden years. #JazzConcert #SeniorMusic ",Neutral,12/26/2023 1:05,User751,Snapchat,#Tag751 #Fun,8,2, India ,2022,12,1,99,7,non-binary
+3,611,Embarking on a journey of learning a new language. The mind stays young with every new word. #LanguageLearning #NeverTooLate ,Neutral,6/15/2023 12:15,User606, Twitter ,#Tag606 #Fun,8,60, UK,2016,6,15,12,63,female
+2,603,Rediscovered childhood cartoons and had a nostalgia-filled marathon. #CartoonNostalgia #TeenMemories ,Positive,6/7/2023 12:45,User598, Twitter ,#Tag598 #Fun,8,45, USA,2021,6,7,12,64,non-binary
+4,143, Gratitude for the supportive community around me.    ,Positive,4/20/2013 10:30,User140, Instagram ,#Tag140 #Fun,8,60, USA ,2013,4,20,10,26,non-binary
+5,599,Spent hours creating the perfect playlist for every mood. Music is my therapy. #PlaylistMaker #TeenMusicLover ,Positive,6/3/2023 21:15,User594, Facebook ,#Tag594 #Fun,8,45, Canada,2016,6,3,21,46,male
+5,326," Yearning for the warmth of a vanished sun, a heartache painted in the hues of a sunset that never graced the horizon. ",Positive,4/18/2020 16:15,User321, Facebook ,#Tag321 #Fun,8,20, Australia ,2020,4,18,16,51,female
+1,585,Successfully avoided eye contact with my crush in the hallway. Mission accomplished. #TeenCrush #StealthMode ,Positive,5/20/2023 19:45,User580, Twitter ,#Tag580 #Fun,8,30, USA,2023,5,20,19,42,non-binary
+5,519,"Swaying to Ed Sheeran's acoustic melodies, a serene evening filled with 'Perfect' moments. ",Negative,8/18/2020 19:00,User514, Twitter ,#Tag514 #Fun,8,35, UK ,2020,8,18,19,48,non-binary
+7,584,"Exploring the historical architecture of an ancient city, the traveler is transported to a bygone era, where each monument whispers tales of the past. ",Neutral,4/18/2019 20:30,User579, Twitter ,#Tag579 #Fun,8,70, Greece ,2019,4,18,20,29,male
+1,34, Coding a new project with enthusiasm.              ,Neutral,1/25/2023 13:15,User32, Facebook ,#Tag32 #Fun,8,60, USA ,2023,1,25,13,33,female
+5,574,"Capturing the essence of a bustling market, the photographer freezes moments in time, each frame telling a unique and vibrant story. ",Negative,3/22/2019 21:45,User569, Instagram ,#Tag569 #Fun,8,45, Australia ,2019,3,22,21,26,female
+1,159, Compassion in volunteering for a local charity.       ,Positive,12/18/2015 14:20,User156, Facebook ,#Tag156 #Fun,8,35, USA      ,2015,12,18,14,60,male
+9,618,"Taking a stroll in the garden, appreciating the beauty of blooming flowers. Nature's wonders never cease. #GardenWalk #FloralBeauty ",Negative,6/22/2023 13:45,User613, Facebook ,#Tag613 #Fun,8,50, USA,2022,6,22,13,22,female
+2,164, Reverence for the wonders of nature on a hiking trail.,Negative,5/11/2020 15:00,User161, Instagram ,#Tag161 #Fun,8,35, USA        ,2020,5,11,15,24,non-binary
+1,565,"In the serene beauty of a sunset, nature unfolds a canvas of colors, evoking a sense of tranquility and wonder. ",Negative,7/10/2021 19:00,User560, Instagram ,#Tag560 #Fun,8,80, Canada ,2021,7,10,19,42,male
+2,192," Sinking in despair, each day darker than the last. ",Positive,8/20/2020 20:20,User189, Facebook ,#Tag189 #Fun,8,20, India         ,2020,8,20,20,54,female
+1,524,"Experiencing the magic of a Coldplay concert, where 'Fix You' becomes a beacon of hope in the night. ",Neutral,11/28/2016 19:00,User519, Instagram ,#Tag519 #Fun,8,60, UK ,2016,11,28,19,34,non-binary
+5,534,"Swaying to the reggae vibes of Bob Marley's tribute concert, each chord a journey to Jamaica's soul. ",Negative,3/5/2020 18:45,User529, Instagram ,#Tag529 #Fun,8,60, Jamaica ,2020,3,5,18,21,female
+3,537,"Streaming the latest web series, the viewer is engrossed in the characters' journey, feeling a sense of connection and empathy. ",Negative,7/8/2020 19:30,User532, Facebook ,#Tag532 #Fun,8,60, Canada ,2020,7,8,19,46,non-binary
+2,538,"At the film festival, the indie filmmaker's creation receives a standing ovation, evoking pride and a sense of accomplishment. ",Negative,9/18/2017 21:45,User533, Twitter ,#Tag533 #Fun,8,45, Australia ,2017,9,18,21,53,female
+4,640,"Started learning ballroom dancing, gliding gracefully across the dance floor. Ageless elegance in every step. #BallroomDancing #SeniorDancer ",Positive,7/14/2023 16:15,User635, Twitter ,#Tag635 #Fun,8,40, USA,2022,7,14,16,43,male
+4,33, Enjoying a cup of tea and watching the sunset.     ,Negative,1/25/2023 18:00,User31, Twitter  ,#Tag31 #Fun,8,30, India    ,2023,1,25,18,45,male
+1,757,"Joined a writing group, penning down thoughts and reflections. Writing, a journey into the depths of the soul. #WritingGroup #SeniorWriter ",Neutral,12/26/2023 1:05,User752,Snapchat,#Tag752 #Fun,8,3, USA ,2017,6,87,9,1,non-binary
+2,554,"Witnessing a heartwarming comeback in the hockey finals, fans share tears of joy as the team secures a historic victory after adversity. ",Neutral,12/12/2020 20:00,User549, Instagram ,#Tag549 #Fun,8,45, Canada ,2020,12,12,20,49,female
+13,560,"In the golf tournament, a missed crucial putt results in defeat, causing the golfer to reflect on the pressure of high-stakes competition. ",Positive,8/20/2016 18:30,User555, Facebook ,#Tag555 #Fun,8,35, USA ,2016,8,20,18,52,female
+1,750,"Sipping on a favorite vintage wine, each sip telling a story of the years gone by. Cheers to a life well-lived. #WineLover #VintageCheers ",Negative,12/26/2023 1:05,User745,Snapchat,#Tag745 #Fun,9,27, India ,2023,2,42,9,42,non-binary
+51,849,Participating in a science fair to showcase a unique experiment. Sharing knowledge with peers. ,Neutral,12/26/2023 1:05,User844,YouTube,#Tag844 #Fun,9,8, Netherlands     ,2023,19,9,2,1,female
+2,39, Practicing mindfulness with meditation.            ,Positive,1/27/2023 12:30,User37, Twitter  ,#Tag37 #Fun,9,30, India    ,2023,1,27,12,54,male
+63,841,Organizing a community cleanup event for a cleaner neighborhood. Promoting environmental awareness. ,Positive,12/26/2023 1:05,User836,YouTube,#Tag836 #Fun,9,39, Canada           ,2022,2,7,8,35,female
+26,840,Trying out a new study technique for upcoming exams. Exploring different learning strategies. ,Positive,12/26/2023 1:05,User835,YouTube,#Tag835 #Fun,9,6, Japan            ,2018,82,73,35,37,female
+4,749,"Taking a stroll in the garden, appreciating the beauty of blooming flowers. Nature's wonders never cease. #GardenWalk #FloralBeauty ",Positive,12/26/2023 1:05,User744,Snapchat,#Tag744 #Fun,9,90, Australia ,2023,5,67,22,3,male
+2,794,Hosting a sleepover with friends this weekend. Preparing for a night of laughter and memories! ,Positive,12/26/2023 1:05,User789,YouTube,#Tag789 #Fun,9,2, Australia ,2021,9,4,94,7,non-binary
+45,824,Received a not-so-great grade on a major project. Academic frustration setting in. ,Neutral,12/26/2023 1:05,User819,YouTube,#Tag819 #Fun,9,24, USA               ,2021,1,73,7,6,male
+2,45, A cozy evening with a good movie.                 ,Positive,1/29/2023 20:20,User43, Twitter  ,#Tag43 #Fun,9,35, Canada   ,2023,1,29,20,21,male
+2,776,"Started a blog sharing the wisdom gained through the years, proving that every day is a chance to learn and grow. #SeniorWisdom #Blog ",Negative,12/26/2023 1:05,User771,Snapchat,#Tag771 #Fun,9,95, Canada ,2021,93,3,8,9,female
+6,782,"Daydreaming about the upcoming prom. The dress, the dance – it's a fairytale in the making! ",Neutral,12/26/2023 1:05,User777,Snapchat,#Tag777 #Fun,9,1, Canada ,2019,8,84,5,90,female
+6,18, Attending a virtual conference on AI.              ,Negative,1/20/2023 11:30,User18, Facebook ,#Tag18 #Fun,9,50,USA,2023,1,20,11,41,female
+2,25, Sunday brunch with friends.                        ,Positive,1/22/2023 12:00,User25, Instagram ,#Tag25 #Fun,9,30, UK ,2023,1,22,12,29,non-binary
+5,24, Celebrating a milestone at work! 🎉               ,Negative,1/22/2023 14:30,User24, Facebook ,#Tag24 #Fun,9,25, Canada  ,2023,1,22,14,50,non-binary
+38,838,Having a string of bad luck with constant technology malfunctions. Tech troubles galore! ,Positive,12/26/2023 1:05,User833,YouTube,#Tag833 #Fun,9,18, Brazil           ,2019,6,13,94,6,female
+7,14, Technology is changing the way we live.            ,Positive,1/19/2023 9:45,User14, Twitter  ,#Tag14 #Fun,9,30, India    ,2023,1,19,9,41,non-binary
+1,590,"Got dressed for the day, then remembered it's Saturday. Oops. #WeekendVibes #TeenStruggles ",Neutral,5/25/2023 19:00,User585, Facebook ,#Tag585 #Fun,9,40, USA,2023,5,25,19,56,non-binary
+2,48, Attending a virtual reality meetup.                ,Positive,1/30/2023 18:30,User46, Twitter  ,#Tag46 #Fun,9,55, India    ,2023,1,30,18,26,male
+2,234," Melancholy painting the world in hues of nostalgia, a canvas of bittersweet memories. ",Neutral,1/5/2020 20:00,User229, Instagram ,#Tag229 #Fun,9,26, USA          ,2020,1,5,20,28,female
+2,221," Wrestling with thoughts, a perplexed mind lost in the labyrinth of life's complexities. ",Positive,8/5/2020 12:15,User218, Instagram ,#Tag218 #Fun,9,28, Australia    ,2020,8,5,12,23,male
+5,219," Exploring new horizons with the spark of curiosity, an adventurer in the vast landscape of knowledge. ",Positive,4/15/2022 8:45,User216, Facebook ,#Tag216 #Fun,9,45, India         ,2022,4,15,8,43,female
+2,218," Tranquil moments by the ocean, serenity washing over, a peaceful retreat within the waves' embrace. ",Positive,4/12/2020 19:30,User215, Instagram ,#Tag215 #Fun,9,50, Canada        ,2020,4,12,19,61,female
+2,481,"In the dance of positivity, every step is a rhythm, uplifting the soul in harmony. ",Positive,9/18/2016 19:45,User476, Instagram ,#Tag476 #Fun,9,35, France ,2016,9,18,19,27,female
+2,486,"Surrounded by the colors of joy, a canvas painted with laughter and endless smiles. ",Neutral,7/2/2019 17:00,User481, Instagram ,#Tag481 #Fun,9,80, Canada ,2019,7,2,17,27,non-binary
+2,489,"Lost in the maze of curiosity, each twist and turn unveils the treasures of discovery. ",Positive,9/22/2018 12:45,User484, Instagram ,#Tag484 #Fun,9,45, India ,2018,9,22,12,18,female
+9,490,"Floating on clouds of gratitude, each raindrop a blessing, a shower of thankfulness. ",Positive,12/10/2016 21:15,User485, Facebook ,#Tag485 #Fun,9,55, Germany ,2016,12,10,21,22,female
+3,513,"In the tranquility of Kyoto's bamboo forest, whispers of ancient Zen wisdom echo through the groves. ",Neutral,2/28/2023 16:20,User508, Facebook ,#Tag508 #Fun,9,50, Japan ,2023,2,28,16,27,non-binary
+5,198," Boredom lingers, a stagnant pool of indifference.  ",Negative,10/2/2021 19:00,User195, Facebook ,#Tag195 #Fun,9,15, Canada        ,2021,10,2,19,49,non-binary
+2,731,Achieving a personal best in a track and field competition. The thrill of victory and self-improvement! ,Positive,9/14/2016 12:30,User726,Snapchat,#Tag726 #Fun,9,51, Canada,2017,9,14,12,38,male
+2,540,"At the Oscars, the actor graciously accepts an award, radiating joy and gratitude for the recognition of their outstanding performance. ",Negative,2/28/2016 20:30,User535, Facebook ,#Tag535 #Fun,9,35, USA ,2016,2,28,20,38,female
+13,180," Grief weighs heavy, tears a constant companion.    ",Negative,10/18/2015 15:30,User177, Facebook ,#Tag177 #Fun,9,25, Canada        ,2015,10,18,15,56,female
+8,547,"In the cricket championship, a nail-biting finish leaves fans on the edge of their seats, experiencing a rollercoaster of emotions. ",Positive,6/25/2019 22:15,User542, Facebook ,#Tag542 #Fun,9,60, India ,2019,6,25,22,52,non-binary
+1,548,"Witnessing a record-breaking marathon, spectators are filled with awe and admiration for the endurance and dedication of the runners. ",Positive,11/7/2021 17:30,User543, Instagram ,#Tag543 #Fun,9,45, Kenya ,2021,11,7,17,53,non-binary
+2,549,"In the tennis grand slam, a fierce rivalry unfolds, captivating fans with a display of skill and sportsmanship on the world stage. ",Negative,9/10/2017 20:15,User544, Twitter ,#Tag544 #Fun,9,55, UK ,2017,9,10,20,35,female
+1,168, Loneliness creeps in as the night grows colder.    ,Positive,11/18/2019 21:20,User165, Facebook ,#Tag165 #Fun,9,20, UK           ,2019,11,18,21,59,female
+2,424,Awash with serenity as the sun sets over a tranquil lakeside retreat. ,Positive,11/20/2020 18:45,User419, Facebook ,#Tag419 #Fun,9,55, Germany       ,2020,11,20,18,47,male
+8,421,Spark of inspiration ignites like a shooting star in the night sky. ,Neutral,2/10/2018 23:30,User416, Facebook ,#Tag416 #Fun,9,60, Australia      ,2018,2,10,23,23,non-binary
+2,253," Basking in the golden glow of contentment, a serene river flowing through the landscape of the heart. ",Neutral,9/5/2020 20:10,User248, Facebook ,#Tag248 #Fun,9,36, Australia ,2020,9,5,20,57,non-binary
+2,418,Inspired by the resilience of a lone tree standing tall in a storm. ,Negative,4/15/2021 14:20,User413, Facebook ,#Tag413 #Fun,9,70, USA             ,2021,4,15,14,22,male
+2,328," Apprehensive whispers in the wind, a forecast of uncertainty, the mind's weather vane spinning wildly in the storm of doubt. ",Positive,6/10/2021 10:00,User323, Instagram ,#Tag323 #Fun,9,28, Canada ,2021,6,10,10,47,non-binary
+1,313," Shattered dreams lie on the floor like fragments of glass, a mosaic of disappointment crafted by the hands of frustration. ",Neutral,1/7/2022 11:10,User308, Instagram ,#Tag308 #Fun,9,30, Canada ,2022,1,7,11,34,male
+2,346,Curiosity sparked by exploring a mysterious ancient ruin.      ,Positive,8/22/2016 15:10,User341, Facebook ,#Tag341 #Fun,9,35, Greece            ,2016,8,22,15,54,non-binary
+2,349,Inspiration strikes while observing the colors of a vibrant sunset.,Neutral,6/10/2020 20:45,User344, Instagram ,#Tag344 #Fun,9,60, UK                ,2020,6,10,20,63,female
+1,350,Motivated to achieve fitness goals after an invigorating workout.  ,Positive,2/28/2022 7:15,User345, Facebook ,#Tag345 #Fun,9,80, Australia          ,2022,2,28,7,48,non-binary
+8,311," Envious eyes fixated on the gilded prize, a heartache fueled by the painful desire for possessions that seem forever out of reach. ",Neutral,2/28/2021 22:45,User306, Facebook ,#Tag306 #Fun,9,40, USA ,2021,2,28,22,24,male
+9,373,Elation over discovering a rare book in a quaint bookstore.      ,Negative,9/22/2018 16:30,User368, Instagram ,#Tag368 #Fun,9,80, USA               ,2018,9,22,16,19,male
+2,382,Pensive contemplation amid the ancient ruins of a forgotten civilization. ,Neutral,4/18/2023 17:10,User377, Twitter  ,#Tag377 #Fun,9,35, Greece           ,2023,4,18,17,59,female
+8,563,"The weightlifter's failed attempt at a personal record results in frustration, highlighting the challenging nature of pushing physical limits. ",Positive,1/8/2022 21:30,User558, Facebook ,#Tag558 #Fun,9,70, Germany ,2022,1,8,21,34,non-binary
+5,282," Charting a course through the waves of hopeful anticipation, a sailor steering towards the shores of dreams yet unexplored. ",Positive,10/30/2022 11:40,User277, Twitter ,#Tag277 #Fun,9,34, Australia ,2022,10,30,11,41,male
+1,278," Confident strides in the dance of life, a ballroom where self-assuredness leads, twirling through challenges with grace. ",Positive,1/15/2021 13:00,User273, Facebook ,#Tag273 #Fun,9,46, Canada ,2021,1,15,13,36,male
+5,393,Euphoria floods in as the final puzzle piece clicks into place.       ,Neutral,6/8/2022 15:30,User388, Instagram ,#Tag388 #Fun,9,40, Denmark         ,2022,6,8,15,25,female
+7,395,Captivated by the ethereal beauty of a field filled with fireflies. ,Positive,8/10/2022 22:00,User390, Instagram ,#Tag390 #Fun,9,50, Brazil           ,2022,8,10,22,33,female
+8,402,Reflective contemplation amid the ruins of a forgotten era.        ,Negative,4/18/2023 17:10,User397, Twitter  ,#Tag397 #Fun,9,35, Greece           ,2023,4,18,17,19,female
+5,264," Lost in the symphony of the night, a moonlit serenade that whispers tales of wanderlust and moonlit dreams. ",Negative,5/8/2021 22:00,User259, Twitter ,#Tag259 #Fun,9,26, Canada ,2021,5,8,22,59,female
+2,414,Awe-struck by the grandeur of an ancient cathedral's intricate architecture. ,Neutral,8/18/2018 14:45,User409, Facebook ,#Tag409 #Fun,9,35, Czech Republic  ,2018,8,18,14,50,non-binary
+11,255," Standing tall, proud as an oak, the branches of achievement reaching towards the sky of accomplishment. ",Positive,12/10/2019 12:20,User250, Twitter ,#Tag250 #Fun,9,50, Canada ,2019,12,10,12,35,male
+7,254," Gazing towards the horizon with hopeful eyes, painting a canvas of dreams illuminated by the sun of optimism. ",Negative,4/18/2022 8:00,User249, Instagram ,#Tag249 #Fun,9,24, India ,2022,4,18,8,56,non-binary
+6,384,Harmony resonates as musicians play a melody of unity and togetherness. ,Neutral,11/30/2019 19:30,User379, Instagram ,#Tag379 #Fun,9,70, Sweden          ,2019,11,30,19,52,male
+9,564,"In the midst of a soccer match, an unexpected own goal creates a moment of despair for the player, as teammates console and encourage them. ",Positive,12/15/2018 20:15,User559, Twitter ,#Tag559 #Fun,9,45, Spain ,2018,12,15,20,37,male
+1,539,"Watching a heartwarming family drama, tears flow freely as the characters overcome challenges, leaving the viewer with a warm glow. ",Neutral,1/15/2021 18:00,User534, Instagram ,#Tag534 #Fun,9,55, India ,2021,1,15,18,42,female
+2,625,"Attended a jazz concert and swayed to the rhythm of timeless tunes. Music, a constant companion in the golden years. #JazzConcert #SeniorMusic ",Negative,6/29/2023 16:30,User620, Instagram ,#Tag620 #Fun,9,50, USA,2019,6,29,16,18,male
+2,609,Exploring the world of digital art. It's never too late to discover new passions. #DigitalArtistry #LateBloomer ,Neutral,6/13/2023 14:45,User604, Facebook ,#Tag604 #Fun,9,45, Canada,2022,6,13,14,55,female
+2,626,"Joined a writing group, penning down thoughts and reflections. Writing, a journey into the depths of the soul. #WritingGroup #SeniorWriter ",Neutral,6/30/2023 19:30,User621, Twitter ,#Tag621 #Fun,9,55, UK,2017,6,30,19,39,non-binary
+11,127, Contentment in the simplicity of a quiet Sunday.       ,Negative,8/15/2010 10:00,User124, Twitter  ,#Tag124 #Fun,9,60, Australia ,2010,8,15,10,57,female
+5,139, Elation over discovering a hidden gem in the city.   ,Positive,2/18/2012 14:30,User136, Twitter  ,#Tag136 #Fun,9,40, USA      ,2012,2,18,14,43,non-binary
+4,146, Compassion shown through acts of kindness in the community.,Negative,1/15/2019 14:50,User143, Instagram ,#Tag143 #Fun,9,35, Australia ,2019,1,15,14,43,non-binary
+2,580,"At the astronomy observatory, the stargazer marvels at the vastness of the cosmos, contemplating the mysteries hidden within the celestial expanse. ",Positive,9/22/2016 20:00,User575, Facebook ,#Tag575 #Fun,9,35, USA ,2016,9,22,20,64,non-binary
+7,126, The euphoria of a live music concert under the stars.  ,Negative,6/19/2021 14:45,User123, Facebook ,#Tag123 #Fun,9,30, USA ,2021,6,19,14,61,female
+2,125, Elation after a surprise reunion with old friends.    ,Negative,4/2/2020 9:30,User122, Instagram ,#Tag122 #Fun,9,50, Canada      ,2020,4,2,9,52,female
+2,152, Elation after achieving a fitness milestone.         ,Positive,6/15/2019 10:00,User149, Instagram ,#Tag149 #Fun,9,50, UK           ,2019,6,15,10,21,female
+5,632,"Visited an art gallery, appreciating the brushstrokes that tell tales of creativity. Art, an eternal companion. #ArtGallery #SeniorArtLover ",Positive,7/6/2023 14:30,User627, Facebook ,#Tag627 #Fun,9,50, USA,2016,7,6,14,53,non-binary
+9,123, Feeling a sense of fulfillment after reaching a milestone.,Negative,3/28/2019 18:20,User120, Facebook ,#Tag120 #Fun,9,45, India     ,2019,3,28,18,41,non-binary
+2,129, Gratitude for the support received during tough times. ,Neutral,3/10/2012 8:30,User126, Facebook ,#Tag126 #Fun,9,30, India     ,2012,3,10,8,44,non-binary
+1,635,"Participated in a local theater production, proving that the stage belongs to every age. #TheaterProduction #SeniorActor ",Neutral,7/9/2023 22:30,User630, Facebook ,#Tag630 #Fun,9,40, USA,2019,7,9,22,36,female
+9,119, Compassion in action: supporting a local charity event. ,Positive,7/18/2015 14:20,User116, Instagram ,#Tag116 #Fun,9,35, Canada ,2015,7,18,14,29,female
+2,112," Revisiting old memories, feeling a sense of elation. ",Neutral,5/15/2010 15:30,User109, Twitter  ,#Tag109 #Fun,9,40, Canada    ,2010,5,15,15,59,non-binary
+1,658,"Joined the drama club to unleash my inner actor. Lights, camera, action! ",Negative,8/12/2023 13:45,User653, Facebook ,#Tag653 #Fun,9,50, USA,2018,8,12,13,55,male
+54,81, Heartfelt sadness after bidding farewell to a dear friend. ,Neutral,2/21/2023 14:45,User78, Facebook ,#Tag78 #Fun,9,50, India      ,2023,2,21,14,40,male
+9,566,"Embarking on a spontaneous road trip, the traveler discovers hidden gems, creating memories that will be cherished for a lifetime. ",Negative,9/28/2019 20:30,User561, Twitter ,#Tag561 #Fun,9,70, USA ,2019,9,28,20,39,female
+20,79, Fuming with anger after a heated argument.            ,Positive,2/20/2023 9:30,User76, Twitter  ,#Tag76 #Fun,9,40, Canada     ,2023,2,20,9,25,non-binary
+34,692,Witnessed a heated argument in the cafeteria. Unpleasant atmosphere at lunch. ,Negative,9/15/2023 14:15,User687, Instagram ,#Tag687 #Fun,9,41, Canada,2017,9,15,14,41,non-binary
+18,701,Feeling a sense of emptiness after a close friend moves away. Farewells are always sad. ,Positive,9/24/2023 17:30,User696, Instagram ,#Tag696 #Fun,9,42, Canada,2017,9,24,17,54,non-binary
+49,703,Encountering online toxicity during a gaming session. Hateful comments can ruin the fun. ,Neutral,9/26/2023 14:15,User698, Twitter ,#Tag698 #Fun,9,32, USA,2016,9,26,14,53,female
+2,61, Sharing love and positive vibes with everyone! ❤️      ,Neutral,2/14/2023 8:30,User58, Twitter  ,#Tag58 #Fun,9,30, Australia  ,2023,2,14,8,34,male
+1,161, Arousal of excitement for an upcoming festival.       ,Neutral,9/25/2017 11:30,User158, Instagram ,#Tag158 #Fun,9,40, UK ,2017,9,25,11,53,female
+5,621,"Embarking on a journey of writing a memoir, documenting a lifetime of experiences. Every story matters. #MemoirWriting #SeniorStories ",Neutral,6/25/2023 20:30,User616, Facebook ,#Tag616 #Fun,9,70, USA,2020,6,25,20,55,female
+48,851,Volunteering at a local charity event to give back to the community. Contributing to social causes. ,Positive,12/26/2023 1:05,User846,YouTube,#Tag846 #Fun,11,17, Spain           ,2018,96,55,6,3,non-binary
+56,853,Participating in a debate club to enhance critical thinking and communication skills. Intellectual engagement in progress. ,Neutral,12/26/2023 1:05,User848,YouTube,#Tag848 #Fun,11,79, Switzerland     ,2019,4,63,4,5,female
+8,773,"Hosted a 'memory lane' evening with old friends, reminiscing about the adventures that shaped our lives. #MemoryLane #SeniorReminiscing ",Neutral,12/26/2023 1:05,User768,Snapchat,#Tag768 #Fun,16,8, India ,2018,7,95,57,39,non-binary
+1,765,"Hosted a picnic in the park, basking in the warmth of friendship and sunshine. Simple joys, timeless memories. #ParkPicnic #SeniorJoy ",Negative,12/26/2023 1:05,User760,Snapchat,#Tag760 #Fun,16,7, UK ,2015,6,1,1,66,non-binary
+1,767,"Embarked on a hiking adventure, conquering trails and relishing the beauty of nature. Age is just a number on the mountaintop. #HikingAdventure #SeniorHiker ",Positive,12/26/2023 1:05,User762,Snapchat,#Tag762 #Fun,18,3, Australia ,2018,6,34,88,2,female
+2,778,"Survived a challenging physics exam. Equations, you won't defeat me! ",Negative,12/26/2023 1:05,User773,Snapchat,#Tag773 #Fun,18,14, UK ,2023,15,8,9,24,male
+8,789,"Joined the drama club to unleash my inner actor. Lights, camera, action! ",Negative,12/26/2023 1:05,User784,Snapchat,#Tag784 #Fun,19,87, Australia ,2017,8,66,17,29,male
+9,788,Successfully organized a surprise birthday party for a friend. Party planning expert mode: Achieved! ,Neutral,12/26/2023 1:05,User783,Snapchat,#Tag783 #Fun,19,8, USA ,2019,2,7,22,6,male
+1,744,Capturing the beauty of nature through photography. Every snapshot is a treasure. #NaturePhotography #SeniorPhotographer ,Positive,12/26/2023 1:05,User739,Snapchat,#Tag739 #Fun,19,98, UK ,2023,7,6,30,20,female
+4,803,Accidentally sent a text meant for a friend to the class group chat. Texting fail: Oops moment! ,Neutral,12/26/2023 1:05,User798,YouTube,#Tag798 #Fun,19,15, India              ,2022,23,1,49,81,non-binary
+52,820,Encountered some mean-spirited comments online. Dealing with online hate is never easy. ,Negative,12/26/2023 1:05,User815,YouTube,#Tag815 #Fun,20,10, USA               ,2019,7,67,27,76,non-binary
+18,842,Sharing favorite book recommendations with classmates. Building a mini book club. ,Negative,12/26/2023 1:05,User837,YouTube,#Tag837 #Fun,21,30, Australia         ,2019,12,81,4,62,non-binary
+57,847,Attending a school assembly to stay informed about upcoming events and announcements. Staying connected with school activities. ,Neutral,12/26/2023 1:05,User842,YouTube,#Tag842 #Fun,24,17, Sweden          ,2022,90,94,17,88,male
+1,753,"Attended a lecture on history, always fascinated by the lessons from the past. Learning is a lifelong adventure. #HistoryLecture #SeniorLearning ",Negative,12/26/2023 1:05,User748,Snapchat,#Tag748 #Fun,27,3, UK ,2023,5,2,5,7,female
+5,745,"Reconnecting with old friends over a cup of tea. Friendship, the true essence of companionship. #OldFriends #Companionship ",Neutral,12/26/2023 1:05,User740,Snapchat,#Tag740 #Fun,27,66, Australia ,2015,7,5,6,3,female
+5,808,Embarking on a mission to find the best burger joint in town. Burger connoisseur: Reporting for duty! ,Positive,12/26/2023 1:05,User803,YouTube,#Tag803 #Fun,29,5, Japan             ,2023,1,1,2,2,male
+54,833,Facing rejection from a dream college. Disheartened but determined to explore other paths. ,Negative,12/26/2023 1:05,User828,YouTube,#Tag828 #Fun,31,1, Canada            ,2019,60,54,55,3,non-binary
+1,774,"Joined a seniors' astronomy club, stargazing and finding wonder in the vastness of the cosmos. #AstronomyClub #SeniorStargazer ",Negative,12/26/2023 1:05,User769,Snapchat,#Tag769 #Fun,35,3, USA ,2016,17,24,3,5,non-binary
+1,807,Creating a secret handshake with friends. Friendship level: Expert! ,Neutral,12/26/2023 1:05,User802,YouTube,#Tag802 #Fun,36,4, Brazil            ,2016,95,23,8,21,male
+30,844,Collaborating on a school project with peers. Teamwork makes the dream work. ,Neutral,12/26/2023 1:05,User839,YouTube,#Tag839 #Fun,40,2, USA             ,2018,11,13,4,4,non-binary
+2,781,"Started a photography club at school. Capturing moments, one snapshot at a time! ",Neutral,12/26/2023 1:05,User776,Snapchat,#Tag776 #Fun,46,9, Australia ,2022,6,18,2,9,male
+5,804,Tried a magic trick to impress classmates. Magic fail: Where did that rabbit go? ,Negative,12/26/2023 1:05,User799,YouTube,#Tag799 #Fun,46,2, Australia          ,2019,86,6,7,33,male
+3,812,Crafting intricate friendship bracelets for the whole squad. Friendship level: Expert weaver! ,Neutral,12/26/2023 1:05,User807,YouTube,#Tag807 #Fun,47,9, UK                ,2019,3,5,4,9,non-binary
+3,771,"Started learning ballroom dancing, gliding gracefully across the dance floor. Ageless elegance in every step. #BallroomDancing #SeniorDancer ",Neutral,12/26/2023 1:05,User766,Snapchat,#Tag766 #Fun,50,9, USA ,2017,73,68,16,58,non-binary
+2,734,Rediscovered childhood cartoons and had a nostalgia-filled marathon. #CartoonNostalgia #TeenMemories ,Negative,12/26/2023 1:05,User729,Snapchat,#Tag729 #Fun,50,1, UK ,2023,45,6,22,3,male
+2,775,"Attended a local jazz festival, tapping toes to the tunes that have stood the test of time. Music, a lifelong love affair. #JazzFestival #SeniorMusicLover ",Neutral,12/26/2023 1:05,User770,Snapchat,#Tag770 #Fun,51,5, UK ,2019,5,2,71,2,male
+2,755,"Joined a nature photography club, capturing the beauty of the great outdoors. Every click is a connection to nature. #NaturePhotography #SeniorPhotographer ",Negative,12/26/2023 1:05,User750,Snapchat,#Tag750 #Fun,51,1, Canada ,2018,21,100,9,8,male
+2,810,Accidentally sent a love letter to the wrong person. Love note fail: Maximum embarrassment! ,Negative,12/26/2023 1:05,User805,YouTube,#Tag805 #Fun,53,3, USA               ,2018,9,9,73,8,female
+38,822,Feeling down after not making the sports team. Disappointment lingers. ,Negative,12/26/2023 1:05,User817,YouTube,#Tag817 #Fun,53,1, Canada            ,2022,8,7,44,76,female
+2,743,"Attended a classical music concert, feeling the timeless melodies resonate. Music transcends generations. #ClassicalMusic #TimelessMelodies ",Positive,12/26/2023 1:05,User738,Snapchat,#Tag738 #Fun,56,30, USA ,2016,16,15,9,4,female
+4,769,"Joined a seniors' cycling club, feeling the wind in my hair and the freedom of the open road. #CyclingClub #SeniorCyclist ",Positive,12/26/2023 1:05,User764,Snapchat,#Tag764 #Fun,59,61, UK ,2019,6,81,99,4,male
+2,764,"Started a book club for seniors, where discussions are as lively as the characters in the novels. #BookClub #SeniorReaders ",Neutral,12/26/2023 1:05,User759,Snapchat,#Tag759 #Fun,60,50, Canada ,2017,18,3,2,93,non-binary
+4,813,Attempting to beat the record for the most consecutive cartwheels. Cartwheel challenge: Underway! ,Positive,12/26/2023 1:05,User808,YouTube,#Tag808 #Fun,63,53, Australia          ,2021,49,2,3,23,male
+9,779,Exploring the world of coding. Debugging is an adventure on its own! #CodingJourney #HighSchoolCoder ,Positive,12/26/2023 1:05,User774,Snapchat,#Tag774 #Fun,64,8, India ,2016,3,4,6,6,non-binary
+3,802,Danced in the rain to celebrate the end of exams. Rain dance: Unexpectedly refreshing! ,Negative,12/26/2023 1:05,User797,YouTube,#Tag797 #Fun,67,8, UK                ,2018,64,99,6,14,female
+27,835,Having a bad hair day and feeling self-conscious. Bad hair days can affect confidence. ,Positive,12/26/2023 1:05,User830,YouTube,#Tag830 #Fun,68,15, India             ,2017,7,14,9,3,non-binary
+2,797,Tried to impress my crush with a smooth conversation. Ended up spilling my drink. Smooth level: Nonexistent! ,Negative,12/26/2023 1:05,User792,YouTube,#Tag792 #Fun,70,47, Australia ,2017,5,6,3,4,female
+21,845,Attending a school club meeting to explore new interests. Dabbling in extracurricular activities. ,Negative,12/26/2023 1:05,User840,YouTube,#Tag840 #Fun,72,38, Greece           ,2020,60,4,16,55,male
+2,758,"Embarked on a solo travel adventure, discovering the beauty of new places at my own pace. #SoloTravel #SeniorExplorer ",Negative,12/26/2023 1:05,User753,Snapchat,#Tag753 #Fun,73,6, UK ,2018,5,7,20,41,male
+2,770,"Attended a wine tasting event, savoring the richness of flavors that age like fine wine. Cheers to the golden years! #WineTasting #SeniorWineLover ",Positive,12/26/2023 1:05,User765,Snapchat,#Tag765 #Fun,74,75, Canada ,2022,7,3,4,6,female
+2,806,Attempting to set a new record for the most consecutive hacky sack kicks. Hacky sack skills: Unleashed! ,Neutral,12/26/2023 1:05,User801,YouTube,#Tag801 #Fun,77,3, France            ,2020,83,1,69,2,non-binary
+34,825,Dealing with a personal setback. Sometimes life throws unexpected challenges. ,Neutral,12/26/2023 1:05,User820,YouTube,#Tag820 #Fun,81,7, Australia          ,2017,9,9,1,70,female
+5,805,Perfecting the art of creating origami during a dull lecture. Origami mastery: A+! ,Negative,12/26/2023 1:05,User800,YouTube,#Tag800 #Fun,83,89, USA               ,2017,9,5,2,9,non-binary
+50,817,Accidentally walked into the wrong classroom on the first day. Classroom mix-up: Awkward start! ,Positive,12/26/2023 1:05,User812,YouTube,#Tag812 #Fun,86,44, UK                ,2020,29,3,8,7,non-binary
+40,831,Got a flat tire on the way to an important meeting. Talk about a series of bad events! ,Neutral,12/26/2023 1:05,User826,YouTube,#Tag826 #Fun,86,19, Australia          ,2022,1,47,7,5,male
+8,777,"Participated in a charity run, proving that age is no barrier to supporting meaningful causes. #CharityRun #SeniorRunner ",Neutral,12/26/2023 1:05,User772,Snapchat,#Tag772 #Fun,88,19, Australia ,2017,3,50,4,5,non-binary
+18,846,Exploring a new part-time job opportunity for gaining work experience. Career development in progress. ,Neutral,12/26/2023 1:05,User841,YouTube,#Tag841 #Fun,89,1, Germany         ,2017,2,9,3,93,non-binary
+2,798,Mastered the art of creating paper airplanes during lecture. Paper planes: Soaring to new heights! ,Positive,12/26/2023 1:05,User793,YouTube,#Tag793 #Fun,89,1, Canada ,2019,48,1,26,60,male
+2,780,"Joined the school debate team. Words are my weapons, and I'm ready for battle! ",Negative,12/26/2023 1:05,User775,Snapchat,#Tag775 #Fun,91,44, USA ,2020,27,5,9,17,female
+13,786,Bonding with friends over the latest K-pop sensation. Fangirling at its finest! ,Positive,12/26/2023 1:05,User781,Snapchat,#Tag781 #Fun,92,7, Canada ,2016,2,1,6,19,male
+4,809,Practicing a stand-up comedy routine for the upcoming talent show. Comedy gig: In the making! ,Positive,12/26/2023 1:05,User804,YouTube,#Tag804 #Fun,95,9, Greece            ,2019,1,76,56,36,male
+58,819,Reflecting on the challenges of the school year. Feeling a bit overwhelmed with assignments. ,Neutral,12/26/2023 1:05,User814,YouTube,#Tag814 #Fun,99,59, Australia          ,2021,1,29,28,62,male
+7,747,"Joined a community choir, harmonizing with fellow voices. Music creates bonds that withstand time. #CommunityChoir #HarmonyInAging ",Negative,12/26/2023 1:05,User742,Snapchat,#Tag742 #Fun,100,1, USA ,2019,52,34,44,8,female
